@@ -1,0 +1,628 @@
+common.topic.notable_types	877
+m.0220pwr	m.02nvwb5	m.022q3gd	m.01xljrt	m.0kpync	m.02xgnk_	m.02hr7t2	m.03ywbch	m.0kpynz	m.0220pwk	m.04gb4fx	m.0252jt6	m.0252jt0	m.0kpyns	m.01xljrf	m.0jsg2m	m.02klcs2	m.01nt	m.05bg37d	m.02hz8n1	m.02h5h_t	m.03ywtsn	m.01nm	m.03yw5hv	m.046cz2p	m.05pxr62	m.01nf	m.043vwpn	m.05cglk1	m.03hx97t	m.01xljr1	m.022tfrk	m.03l93__	m.03n9_w_	m.01xljr7	m.050_67b	m.01xrz6t	m.0kpyn5	m.03bvjqj	m.0252jts	m.05cwkvw	m.0252jtd	m.043vwp8	m.01n7	m.045r87r	m.0469mx4	m.02b8yh9	m.02_3zfj	m.0kpyp4	m.025dxy3	m.078f9hb	m.04_bvk3	m.02hqv_f	m.0431xnh	m.05bh9tv	m.08pnc4v	m.01xrlgc	m.01xpjz4	m.08l646s	m.02hqb6h	m.02h8512	m.02h7_57	m.02hyl2z	m.02hqb6w	m.07_3gvn	m.05swz4j	m.05ffqcg	m.02k9ydg	m.02h7ljp	m.051sm46	m.02k9ydn	m.02xhd6r	m.04lw	m.02_3837	m.02ht34g	m.02_3831	m.02h7ljh	m.03jzg1j	m.01xs0vd	m.05c689t	m.07_2jp1	m.03n9_w7	m.02_1yvw	m.0kpypx	m.02_1yw1	m.046chf6	m.025dxyh	m.021y6nm	m.02h66g5	m.0kpypj	m.02_3zf4	m.048n9z4	m.01xpjzq	m.021y6nd	m.02h7lj3	m.01xljr_	m.01xrt3_	m.08l63hs	m.02_383f	m.03w5cmh	m.01xljvt	m.04ykwby	m.02h7lj9	m.051sm4l	m.048n9yy	m.02k9yd8	m.029fbpr	m.02_wph6	m.01xrvrv	m.02nmm_l	m.05ghl1d	m.02nzl9_	m.0252jvb	m.02h7bnn	m.05bh614	m.059kpsl	m.01xljvf	m.05cy3l4	m.046cz3_	m.01xljvm	m.08l5xyc	m.02_1yp5	m.07z_jdq	m.02nsjl9	m.02kl65p	m.0kqggl	m.02hfkyw	m.04jwcrs	m.02hqb63	m.01xljym	m.02kl65h	m.02hr9m9	m.02hqb69	m.075yw4_	m.01xljv7	m.05v2f35	m.02xyp8j	m.04ktskq	m.05cz_gg	m.021y4sb	m.05cglk9	m.01xr_wx	m.01xrdt7	m.05bg37n	m.01xr_wb	m.02_3rt3	m.0220thb	m.05bh61d	m.01xs069	m.02_77lg	m.08vqqd6	m.08mkttw	m.02kl659	m.02kl653	m.065nc91	m.01xljy7	m.02hr9mp	m.059c3ft	m.02j72xn	m.05blf5_	m.07j_r29	m.021y6qc	m.01xljtw	m.0bgm3n7	m.02k7zt_	m.047j9qp	m.025b7t7	m.021y8_2	m.02h7kzv	m.02lc5xg	m.02ht472	m.021y4__	m.05fq41m	m.021y8_8	m.02k6s1t	m.0kpytn	m.04_p5x7	m.02kqgg2	m.02h7d9c	m.02whrmv	m.03w5cq0	m.02_3phk	m.04fnplh	m.01xrvvp	m.0358	m.03w5cl0	m.02t8590	m.02h77f2	m.02kpj6f	m.019_	m.042_ltb	m.021y8_g	m.02h7d9k	m.022qzh8	m.025dgfy	m.0kpym_	m.04krh3f	m.021y8_v	m.02kdlqc	m.02kz9qc	m.0bbqs59	m.02_3rmh	m.05kn_6m	m.035n	m.03yw5y3	m.01xrm06	m.05czxzx	m.035g	m.0kpymf	m.0kpyt8	m.0kpymm	m.02k84t8	m.05kw4d3	m.0kpyt2	m.02h7d95	m.01xpj_2	m.04_bsn_	m.03yw86s	m.02_8yds	m.01xrywk	m.04l4q59	m.01xrzm2	m.03sp3gw	m.043vqws	m.02xh6vm	m.04l4q52	m.04kt08m	m.0509g5z	m.02h76fz	m.025b7ln	m.03yws7f	m.01y2hlx	m.02_775m	m.04kk1py	m.03jz7mq	m.01xljq9	m.03j41zk	m.025dnr9	m.03k0nkd	m.03yw861	m.0220ntj	m.01xrzmg	m.07y9ph4	m.021y4rc	m.02h76zl	m.051fn__	m.075rm8n	m.02_4gm9	m.01xrfcl	m.01xrfpp	m.02_wln0	m.0c0k6pb	m.02p6_hz	m.042zl29	m.02_1z27	m.0256985	m.01xrz7y	m.021_gl6	m.05blds2	m.0kpysb	m.02_1y_3	m.021y6mf	m.04gb4g8	m.0kpysj	m.02_1y_9	m.045r4j9	m.025dxz_	m.05n6p88	m.02_3mdg	m.02_382h	m.02_4gn1	m.01y2j5t	m.02_382p	m.01y2jks	m.059ppf9	m.03w5clp	m.02kbj89	m.01y2j5m	m.02_382w	m.04xwkpt	m.01y2k9l	m.0kpys4	m.025698r	m.02h7c7b	m.021y8zl	m.01xljsr	m.078_8dm	m.0c0l05q	m.02h7c7j	m.04lp	m.078_8dw	m.05c689m	m.0220px9	m.02_1y_p	m.025698c	m.01xljsc	m.04kcyl6	m.05c689c	m.025698k	m.01xrdyr	m.05vb0rl	m.02_381r	m.05nd7vz	m.0366	m.02_3823	m.0252jw2	m.046cz3s	m.0360	m.078zw9v	m.02_3829	m.02h7rpk	m.02yxk71	m.021y4rk	m.05czkf7	m.066mptt	m.0220pjs	m.02_6n0_	m.02k6s33	m.02h785g	m.02k9ttj	m.02h7lk7	m.03yj94y	m.06xxlw7	m.025b3yd	m.0bjqdqr	m.02ht32l	m.0220px3	m.059wg_5	m.05bvj79	m.02ht32d	m.02ws9y4	m.02xhc47	m.02ht32z	m.02k9ybs	m.01xrz6_	m.063dcgl	m.02h65n3	m.02kl67z	m.01xrsjn	m.052tj4n	m.02h7lkm	m.02nmm_z	m.051pbxg	m.02kbj8p	m.01xpjx8	m.02h84_p	m.05czkfg	m.02h7lkt	m.01xrg_h	m.02k8f_w	m.02hyl3y	m.02sgd3r	m.01xrrby	m.05ffvtw	m.02_4djw	m.02xlgk_	m.02k6s2c	m.01zt	m.0220pxw	m.02_3pws	m.01xrhl1	m.01xrw0v	m.02h7lk_	m.021y8z0	m.04wn0nx	m.01xrl_t	m.059wg_c	m.01xryxp	m.02hqqhn	m.02kl68x	m.04_p5wb	m.04fnrhp	m.046xk8v	m.05_fz9q	m.05vsg07	m.02hrmwq	m.01xs0yg	m.066mrz4	m.025m1qp	m.01xs0yn	m.04_p5wz	m.02_6zn1	m.02scvb7	m.02kxdr8	m.05v2f0k	m.03zf78k	m.01x3gpk	m.0bnnlvl	m.048n9zs	m.01xr_dv	m.0256724	m.048n9_m	m.04gb4gg	m.0220pxh	m.02ynpkq	m.048n9_d	m.01xxxsy	m.01xs05y	m.01xljwr	m.01xs0y2	m.02hpz31	m.02wgd4y	m.01xs05r	m.01xxxsr	m.01xrjd6	m.05pvlrq	m.02kl684	m.01xljwy	m.01xs05k	m.05ccgsq	m.01xljwc	m.0528j_t	m.01xs05c	m.01xljwk	m.02h5gwn	m.02h77nv	m.01xr_d8	m.065mx_y	m.048n9_5	m.01xr_d2	m.02_b8lh	m.025672j	m.01z0s37	m.02gwtvs	m.025672b	m.01y1m9s	m.02394wk	m.05r4y_k	m.02knxyp	m.01xrznl	m.02knxyw	m.01w_	m.01xryvm	m.01xxv5b	m.025d70f	m.02ws9vy	m.01xryvt	m.021y8yh	m.02knxyh	m.025d70m	m.02_3nzc	m.025dn5j	m.0611b0d	m.02h7lhr	m.02h7lhy	m.025d70_	m.02xlh55	m.05h1pwk	m.02xj45t	m.09tqwls	m.02hrl4k	m.04624gc	m.05h1pwb	m.03yw5sq	m.02h7_5m	m.025d707	m.02h850f	m.02h7rts	m.01y2hcq	m.04kwb4v	m.02knxy9	m.02sj32y	m.025dpw2	m.09gs117	m.02zd622	m.02h7_5t	m.04_jj5n	m.021y6py	m.04kcwps	m.02_381k	m.01xr_cj	m.01xryxh	m.01xr_cb	m.05czz29	m.02k6s1_	m.02_381y	m.0220pg2	m.02h7_5_	m.02xlh5r	m.01xr_cq	m.043vp8s	m.02h76y7	m.025dn5q	m.042_ntn	m.03bqmw0	m.09tf9lt	m.03hx9c7	m.04njbnw	m.04kr	m.062z_1f	m.01xljpr	m.0kpv1_	m.01xljxh	m.02k6s0h	m.02_1ynm	m.025d70t	m.05n4rsg	m.01y2hcb	m.02_4gmw	m.02_xsmk	m.0kpv1m	m.01y2hcj	m.02_4gmp	m.04p7ysz	m.0kpv1t	m.04_k1_0	m.021ynng	m.02hqb47	m.01y2hbl	m.043vwpv	m.04624gk	m.03yxlwb	m.02_1yn1	m.02_1yn7	m.022q3jg	m.03j41y_	m.05kdnd7	m.05bg686	m.02ht35d	m.02xhc4k	m.07_2v60	m.04xg8pq	m.05k5hzh	m.042xcw6	m.025b7k_	m.0252jvx	m.02hqb4_	m.021ynn2	m.02h51nz	m.04ktrv9	m.03jz7ls	m.02_4gm3	m.07vr92g	m.0kpv17	m.07vr92z	m.01y2hc4	m.02hqb4t	m.0kpv11	m.049xqrq	m.01xs0xb	m.066998n	m.02yxk6w	m.02yxk6p	m.0663k1f	m.05czt7_	m.025d7_0	m.0514pdx	m.08scbsj	m.01xpjx2	m.05bl7x_	m.02hk9z5	m.021y6st	m.045r8r4	m.022q3jz	m.02hsljc	m.0kpyrl	m.021yn0j	m.02_9lqc	m.01xrrcp	m.0kpyrd	m.021yn0b	m.025dy0w	m.02_8dn8	m.0kpyrz	m.01xrrch	m.01xpmwf	m.025b7ys	m.0252jx0	m.0kpyrs	m.02h51py	m.05czt7k	m.02_3nym	m.02yxk63	m.04fnrhx	m.05cglht	m.02yxk69	m.063dc2r	m.01xs0xq	m.02h7ll5	m.02k9ycq	m.0252mcc	m.02h84_w	m.0469h78	m.02907pl	m.01xrfx2	m.07_1b3l	m.01xrrc3	m.03zbp0y	m.02k84v8	m.02ht342	m.021yn04	m.0kpyr0	m.02h76qk	m.0kpyr6	m.021yns5	m.066ml2n	m.05czvmf	m.02zd6z6	m.02_3rt9	m.0252jsn	m.02k9ycx	m.01xxxtp	m.0252jsg	m.01xs04m	m.0220py7	m.05d162b	m.04nb71d	m.042_n_s	m.02_3px4	m.02jcrkd	m.02hvnfb	m.04h_t30	m.025d8rl	m.0jsg4q	m.03yj954	m.01z11ns	m.0jsg4j	m.05cgljt	m.01z11nz	m.01xrrd7	m.0jsg4b	m.01z10_q	m.02vk3p1	m.01xxxt9	m.02h76l9	m.02kl69v	m.02kdj21	m.01xs047	m.01xs041	m.02wsb0y	m.051gp7y	m.0252js2	m.02ht33j	m.02_b8lw	m.02_383t	m.02_7frv	m.02907kt	m.0jsg44	m.02_1z2f	m.02yxk85	m.02k6s1m	m.044801x	m.02hvnf4	m.02kphv6	m.02_6n1w	m.05cglj1	m.09tmhcj	m.02k9tv1	m.01xrf7p	m.02k6s0w	m.02xlh4_	m.02scvxs	m.02nwtn_	m.01xs039	m.048n9_v	m.02h850x	m.0514pdp	m.01xs033	m.02_7ld2	m.07zmp_r	m.025m0cq	m.02wshsg	m.03z1q78	m.06rtyk8	m.01m9	m.02xg9y1	m.02xlh4t	m.01xrplk	m.02k76m0	m.01xs0xx	m.01xljt9	m.02xlh4m	m.03sp3gp	m.01xljt3	m.05czqg1	m.01y2hn6	m.02xlh4f	m.02k9ybl	m.01xs03h	m.0kpyq8	m.01xrf78	m.043tkv1	m.03h314x	m.03ywbbn	m.025697_	m.02h8501	m.01xs03w	m.01y2hnl	m.01mp	m.02ktb_s	m.0jsg3l	m.02k8f9x	m.04fnpn6	m.01y2hnd	m.01z025w	m.0jsg3d	m.05c9spc	m.01z025p	m.0jsg3z	m.04_n87y	m.01xrvty	m.01mh	m.05bl9bj	m.01xljtp	m.01xs0x4	m.01xpjxn	m.02knxz7	m.02h7k_v	m.02_8yfs	m.02knxz1	m.04kwcgm	m.043vwqs	m.0252jwn	m.01xpl0b	m.0252jwv	m.05pv8k_	m.05bh60n	m.025dx_5	m.048n9y1	m.021ynvf	m.04kmddt	m.02gwt_x	m.021yl93	m.02h7kvf	m.0410k7f	m.01xrf9r	m.045mz_7	m.01x5	m.02h7kvm	m.05kp361	m.02hk8cd	m.02_7n46	m.02hqb5y	m.01y2k07	m.02_1z1p	m.048n9yh	m.02knxzt	m.05d077s	m.02_40hf	m.02_1z1w	m.02xhv5q	m.065mx_q	m.02_1yvp	m.059prfd	m.02h5yxm	m.09gs0yz	m.02knxzf	m.02_1yvh	m.02yxk5k	m.02_1z1h	m.0220ph0	m.01xs0y8	m.0252jw8	m.02yxk5c	m.06_989b	m.03bq_76	m.0jsg3s	m.04xw9hr	m.02knxz_	m.02xg9yg	m.02whslz	m.02_3ny_	m.05g_c_h	m.0220pfk	m.02h7kv1	m.01xrp0t	m.05g_c_q	m.01xk	m.04mw3dc	m.02nrqx2	m.02h76vy	m.03bnl5l	m.0kprtg	m.01_5	m.06bkjdj	m.01xpjyd	m.04krh0k	m.01xljq3	m.05bh60x	m.01xpjyl	m.066mrpn	m.02_3rmw	m.0c09tg1	m.07bbh_n	m.01xrvxj	m.01xpjys	m.04kcwlg	m.01xpjyz	m.025b7qw	m.02kl648	m.02k84ns	m.01xrj8t	m.025df57	m.01y2hb6	m.0kpv25	m.05kdndr	m.01xljx3	m.01z0r1y	m.04p7yr1	m.025dx_c	m.01xljqp	m.02_7ncd	m.0bfwsfl	m.09336_t	m.04q6661	m.028xmlk	m.04fnrj3	m.01y2hmg	m.02ynpl6	m.01y2hmn	m.04dyq1j	m.02kfb_l	m.01y2hbz	m.02kl64y	m.02kprxg	m.0kpv2r	m.02_4gly	m.01y2hbs	m.02_40h1	m.021ynmx	m.01xljxw	m.0kpv2k	m.03yw84x	m.01xrgyk	m.01xljxp	m.0kpv2c	m.025df5f	m.01y2hbd	m.02whhqx	m.05kpwk1	m.01xrzlj	m.05bvgbl	m.02ydrtt	m.05yxcqj	m.01xrzlb	m.01xrzk0	m.01xlj26	m.02xm8mh	m.01xrzlx	m.0778yjq	m.02wsh5s	m.045vdhk	m.01xrzlq	m.02zd6yn	m.04l4q4w	m.04zr8ss	m.02_5d4_	m.0220qlk	m.04nr73n	m.046x372	m.04ktscg	m.02kpw0f	m.046cz33	m.02xm94t	m.05y1dh_	m.01xrj6w	m.05d16wm	m.09tqx51	m.02hr_7j	m.02h7kv7	m.01xrzks	m.01xrzkl	m.02_7n7d	m.02h7d8_	m.01xrzkd	m.02hqvzm	m.02kxdxd	m.02hslll	m.02_3nz5	m.03yw69j	m.02h7d8m	m.0cgkz0m	m.02h7d8f	m.04fnpml	m.02hqc50	m.052k85y	m.02wh5_f	
+people.person.profession	617
+m.01nt_5	m.016z4k	m.03nwls	m.02h6n_q	m.01tdlv	m.01rrgk	m.020d_t	m.06m724	m.0305vf	m.06ms9pf	m.028kk_	m.0d2ww	m.03qsd0m	m.0by3l3	m.01bw9x	m.051qy4p	m.0f1hr	m.02hyt6	m.02kx6jw	m.0g0vx	m.0b787yg	m.01bqlp	m.05xjb	m.024rt0	m.040wy2	m.01nw6x	m.01t2ln	m.013x5h	m.05z96	m.05t4q	m.04_j84h	m.05hj__k	m.049btd	m.05g255k	m.03qsdjw	m.014ktf	m.016f9d	m.01k695	m.02xhgy6	m.04c_mzs	m.0747nrk	m.02xhr2j	m.02h6ncm	m.0dr_2l9	m.05h7_00	m.01n7wr	m.02hsh8d	m.03qsdmp	m.02xcqx	m.0dc6bc	m.04j5jl	m.0d6n1	m.09v2x7p	m.01k0hc	m.0h9c	m.03gkb0	m.02nzlrk	m.0gzj8	m.025zgs	m.0mbx4	m.03lgtv	m.0djbw	m.0cncxk	m.05gm1n3	m.068mqj	m.05lmc_d	m.018gz8	m.02h6ndw	m.02xlf	m.01bc07	m.015cjr	m.02h6pbb	m.0fzb5	m.01___w	m.02mry6	m.02lc5qr	m.04_2qtd	m.02krf9	m.03bhsw	m.04pyp5	m.01sm_p	m.02h6nzg	m.01b7b	m.059lbx3	m.023fvs	m.025352	m.01dgbz	m.05d7vxr	m.0164xg	m.03sr43	m.02hs__v	m.03_vpw	m.025tvtz	m.0p285	m.07c1v	m.04p2dz	m.05sxngn	m.0643rz3	m.06zts42	m.022qqh	m.047vnfs	m.07k6dg	m.015ks2	m.0fkdq	m.0311k0	m.03gjzk	m.0bgf7vl	m.0kf6n	m.05798	m.01c979	m.017cv5	m.025sd_y	m.052v7fb	m.012vv0	m.02xh2_	m.0ldw2	m.0btpv4	m.0knj1	m.02h6nh6	m.01sjmd	m.026ybb	m.02n9jv	m.02h6p7p	m.0cp2_	m.02h6ngl	m.0fz465	m.0fnpj	m.0190jy	m.04l1gwb	m.0fy5b	m.02xhr6s	m.03qsdqh	m.05snw	m.02y5kn	m.014zv0	m.0857g	m.03r8gp	m.03qsdxl	m.08m3tx	m.0jgxn	m.02kzb2q	m.07z002c	m.02xlj97	m.02h6nvy	m.02nblbn	m.02nqprv	m.02h6nhv	m.05bkv11	m.09spnh	m.06jt00	m.02nbtnb	m.035y33	m.02h666c	m.02fn75	m.0jgcl	m.03ffqh	m.02_8dlt	m.02h6ng8	m.012q9c	m.0161df	m.02kvl2g	m.03qsdk0	m.0196pc	m.04cvn_	m.01jbr2	m.0dxtg	m.01dgft	m.09lbv	m.01wst8	m.03hz6vv	m.03b3nf	m.074bn	m.01g14w	m.016m9h	m.025syph	m.02_6_39	m.028w3j	m.037l9	m.0dl08	m.025smyp	m.012wxt	m.0dypbr	m.07s4911	m.01tfzs	m.025t9	m.03wnnm4	m.03qsdgp	m.028sgq	m.05km30d	m.0fgsq2	m.0b6kr1	m.01z24r	m.043498	m.02h6nc9	m.0by_wr	m.0df9z	m.02lmkb	m.01pvc5	m.04s2z	m.03c7_xq	m.09zzb8	m.015h31	m.02ldsk	m.03mr42h	m.043tvhw	m.03wm22	m.05vyk	m.024j5d	m.01xy5l_	m.0hxyj	m.0pyrb	m.014l7h	m.012rvq	m.0jwr9	m.0dz3r	m.025sppp	m.0ny80	m.037ngc	m.01vs_x	m.02kx6lf	m.0266rh	m.03y1_	m.07dj12	m.02p0s5r	m.01t15m	m.05xls	m.03w8_5b	m.0377kt	m.04t78zk	m.01sfl	m.01mq6l	m.09j9h	m.02h6n93	m.05d2m7	m.01sptk	m.02xhvyb	m.0hltv	m.02lrkj	m.01kq3x	m.065y0s3	m.0d2pty	m.02fwqx	m.01kq3f	m.0kyk	m.02p19vy	m.0frz0	m.028sdw	m.01xr66	m.062zr	m.01k2n4	m.07l5wz	m.02h6pd1	m.05lq6lg	m.04qrw	m.04szc	m.02h669_	m.014cnc	m.01bs9f	m.0b9sfj	m.02kvk_g	m.01pqv2	m.021wpb	m.039v1	m.02hrh1q	m.02h664x	m.062z7	m.097fx	m.06wkj0	m.02h664g	m.02n_321	m.03y18t	m.02pjxr	m.02qjz3	m.02hqyhw	m.03qc7q6	m.0bsgs4	m.0f75y	m.03vx8r	m.0phgr	m.02y_360	m.02dsz	m.017qzd	m.023nrw	m.0196s4	m.02nslmx	m.02tqlg	m.0c_xl	m.02h6ny1	m.02h7926	m.012qdp	m.01rs4w	m.03f_s3	m.0dtvrx	m.025tmkg	m.05fh2	m.03qsdy1	m.053y1	m.04f2zj	m.01fcnx	m.09jwl	m.099md	m.05hk08f	m.0fd02	m.08z956	m.01l9rr	m.03qsd25	m.02h6nyj	m.0fckr	m.03byzd	m.0n1h	m.05s9tm	m.0nl50	m.03qsddz	m.03bm6	m.0b2h5v	m.0mch7	m.01zmpz	m.012vt9	m.02nx2hj	m.016fly	m.03qsdv7	m.0fj9f	m.05r6c	m.02h667l	m.04gc2	m.01d30f	m.018_df	m.02h667c	m.066dv	m.01qdsm	m.026rby	m.02h6p6f	m.02rzh3	m.02h665k	m.02hqr87	m.02sqzl	m.017gwr	m.025m070	m.03g2b5	m.029bkp	m.0g7nc	m.0fy_j	m.0w7s	m.02h6676	m.02wszfz	m.05sxg2	m.0158jv	m.0d1pc	m.0fzyg	m.01tkqy	m.015btn	m.02h6nsx	m.05t_ww8	m.023vk2	m.01pxg	m.02hccx	m.02h6nsr	m.04q69_	m.089fss	m.01j1p6	m.09x_r	m.0d8qb	m.02cc0w	m.02kvl32	m.03sbb	m.02kvl4z	m.03qsdj7	m.076xdx	m.05v96k	m.0385k	m.04p8n2	m.01l5t6	m.080ntlp	m.068t3	m.02kvl4g	m.02kvl3l	m.0fy91	m.05s7nl	m.02gk4z	m.01k1x3t	m.02xhgwq	m.0f03_	m.016gcr	m.01h3_3	m.017zkh	m.0289fz	m.02hv44_	m.03qsd9c	m.01jp58	m.016g5h	m.03m3ym9	m.051j5nz	m.03m3mgq	m.0137gx	m.026sdt1	m.0181qd	m.027v7wj	m.09l65	m.0j1vh	m.0dz96	m.03ypcx	m.0dgd_	m.03xptd	m.067nv	m.03jp3c7	m.02qqd4n	m.0b2d4t	m.02h6pgd	m.0f2pm	m.01hkml	m.05n01k2	m.01445t	m.02vk771	m.0hpjt	m.08wcjr	m.0htp	m.06796	m.029lh1	m.02h6p5n	m.07s7r2	m.02kv97_	m.02h6p2c	m.060gdf	m.03lp7l8	m.035j03	m.01jn5	m.06ywtl	m.012vtp	m.0mb31	m.01b30l	m.01_v1r	m.060m4	m.07yrm	m.03qhk3m	m.02h6pg7	m.02449y	m.03mlfd5	m.03b0cv	m.02mx_6	m.02kbrk	m.01c5x1	m.01pn0r	m.067hy	m.025spv	m.02h66l4	m.0jygg	m.02y_93f	m.02h6dnp	m.02h6624	m.02fbcn	m.025rxky	m.02h6nw2	m.0gfj96l	m.082mlc	m.027qf2	m.02pbt5	m.031j5q	m.08014v	m.03gq32j	m.012t_z	m.01nxfc	m.05wgy	m.0db79	m.06g4kp	m.0ck7l	m.02h6p1l	m.02ktm6n	m.02kf1zf	m.016fc2	m.02h6p1f	m.0281y20	m.02h6p1r	m.064456p	m.03jgz	m.01nghj	m.016nmn	m.02jknp	m.03qsdwb	m.03p19pq	m.019x4f	m.02ynfr	m.0c5lg	m.08p4gp	m.02nw_s	m.03b4xk	m.025bwc	m.039nvr	m.03qtmn	m.02nx2rt	m.03j50	m.030pm0	m.059dw0p	m.02n9466	m.04tkfj6	m.02h6pc3	m.0513yzt	m.03qsdw5	m.01c8w0	m.02xhgx0	m.036n1	m.0gl2ny2	m.0cbd2	m.02h6nn_	m.01d_h8	m.01c72t	m.028fjr	m.012qgt	m.06q2q	m.01c6nk	m.01c35v	m.047rgpy	m.01t8by	m.018rn4	m.01fhsb	m.078s_	m.037tj5	m.04s84y	m.01rg64p	m.01kyvx	m.03krjh	m.03bx017	m.02h65pf	m.03gn0rh	m.03qsdl8	m.0jq47	m.02h65pn	m.01zvpn	m.016wtf	m.0nbcg	m.0vjs6	m.05d1v1t	m.02nx2gc	m.04y8b	m.07068	m.02h65p0	m.0gbbt	m.02h666v	m.064xm0	m.05jnl	m.02kdt7j	m.02h6f47	m.02fsgz	m.02z7q_	m.04_k4ht	m.02h5fq7	m.02hxc1	m.0q04f	m.0gjm7	m.07h_62	m.02p1_x_	m.0fd2m	m.02ym4x	m.01hbsc	m.012n4x	m.0lgw7	m.06zs7	m.094hwz	m.02xhqrq	m.03bsg0r	m.020xn5	m.02h6fbs	m.01434f	m.01ttq5	m.02h65y5	m.0cfhn8	m.04hx60	m.07bkkj	m.04hczxh	m.05kb8h	m.09hljw	m.0q410p1	m.02nxqmh	m.02h6dmm	m.04qtnv	m.02h65yd	m.0mn6	m.01p5_g	m.01j31q	m.019n1v	m.018wb3	m.0lhtr	m.0np9r	m.028bd1f	m.03qsdck	m.05ll37	m.02h668d	m.09f5wvf	m.068pmz	m.026sz_n	m.04rjg	m.03qsdp2	m.02xhr73	m.02h661t	m.052nz5x	m.05b9xw3	m.01t81v	m.043tz3r	m.0fczf	m.02pd426	m.02t8yb	m.014kbl	m.0c7c3k	m.02xlxfq	m.025ys1	m.02h66dr	m.02h8_qp	m.02m_zk	m.02h66dz	m.055_j_	m.0fnqb	m.06mq7	m.0gd871	m.0gt4z	m.01vkr0	m.04vxs5l	m.07lqg0	m.0bxzd_p	
+people.person.gender	2
+m.05zppz	m.02zsn	
+people.person.nationality	348
+m.0165v	m.07ww5	m.0165b	m.0d0vqn	m.06srk	m.01y7qw	m.0cn_tpv	m.05rznz	m.0604m	m.07fsv	m.01k6y1	m.06frc	m.0d05w3	m.0g6k2	m.02w9s	m.03rt9	m.05byy	m.04hqz	m.01hs96	m.02wt0	m.02k1b	m.06mzp	m.04frh	m.01k0p4	m.03gq3bp	m.04hzj	m.04fry	m.0hkt6	m.02vzc	m.05r4w	m.03_r3	m.04w4s	m.04ty8	m.07dvs	m.03gj2	m.06ryl	m.02wzv	m.01n45v	m.0162b	m.025ndl	m.0162v	m.082fr	m.05qkp	m.03bxbql	m.06s6l	m.0j4b	m.06s9y	m.088tv	m.09lxtg	m.0285m87	m.0642wmq	m.01m41_	m.0g8bw	m.09jqj	m.01xbgx	m.01nqj	m.047lj	m.07hj4m	m.016wzw	m.0345_	m.01rhrd	m.04hhv	m.02zqdb	m.021hqs	m.019pcs	m.015h4k	m.06dfg	m.0345h	m.09472	m.0fctx	m.06yyft	m.05bcl	m.0j681	m.06tgw	m.017cw	m.0bq0p9	m.02srrt	m.07dzf	m.05b4w	m.01699	m.03rk0	m.07bxhl	m.0166b	m.0dpsx	m.07fb6	m.0166v	m.0jt3tjf	m.0247my	m.0169t	m.08pns6	m.03ryn	m.07ytt	m.07twz	m.0366c	m.0gn8n	m.0c81v	m.023kxh	m.0md55	m.02jx1	m.01mk6	m.0d05q4	m.01nln	m.06tw8	m.027rn	m.077qn	m.04wlh	m.07f5x	m.01ls2	m.05kyr	m.0cgs4	m.0hg5	m.0h8d	m.04wgh	m.0h44w	m.0410vqb	m.01z88t	m.011xsj	m.01ppq	m.03l5m1	m.07z5n	m.02pjsp9	m.0bk25	m.06jnv	m.04x_hs	m.01pjmk	m.086b7g	m.01s47p	m.087vz	m.021hrn	m.04n062t	m.015n7b	m.01rdm0	m.019kzh	m.03t7hf	m.088q1s	m.059z0	m.06bnz	m.02khs	m.04w58	m.07ssc	m.01nx28	m.016jz3	m.0hzlz	m.025scy1	m.0h7x	m.03_xj	m.047fxf	m.035dk	m.0bjv6	m.06t8v	m.02x7wz	m.0dkly	m.06sw9	m.07tp2	m.06m_5	m.035v3	m.011jw	m.03shp	m.0l3h	m.035qy	m.04g5k	m.0167v	m.04j53	m.05qx1	m.027jk	m.0jdd	m.0jdx	m.06q1r	m.04gzd	m.06swt	m.05br2	m.03h2c	m.04gqr	m.019rg5	m.0d7bt	m.01crd5	m.0384_p	m.04vjh	m.09c7w0	m.05tr7	m.06t2t	m.05cgv	m.01n6c	m.01p1v	m.01hlvc	m.021hd9	m.05c17	m.01p1b	m.01hk04	m.036b_	m.04vg8	m.01p8s	m.06s0l	m.06cmp	m.07f1x	m.0cgm9	m.05v10	m.0160d1	m.07t_x	m.0f8l9c	m.03676	m.0dfrl8	m.01fvhp	m.027nb	m.0gtzp	m.0jhd	m.01mjq	m.01ycx0	m.05sb1	m.01flgk	m.05l8y	m.04xn_	m.03h64	m.02kmm	m.013g3	m.03spz	m.088q4	m.02zbz5	m.01pj7	m.04tr1	m.09pmkv	m.05bmq	m.088xp	m.020g9r	m.02lx0	m.06sff	m.01rxw	m.024pcx	m.0j11	m.05cc1	m.02wm6l	m.0160w	m.06qd3	m.01z215	m.088vb	m.06vbd	m.01cyh	m.03188	m.06f32	m.0697s	m.04v09	m.049nq	m.056vv	m.012m_	m.0d04z6	m.0ctw_b	m.0j1z8	m.04hvw	m.01c4pv	m.065sh7	m.04w8f	m.0b90_r	m.01bpjh	m.0hbgh	m.03__y	m.02q14r	m.0d7c8	m.03b79	m.06c1y	m.03_3d	m.06s_2	m.047yc	m.01_fxk	m.04g61	m.04v3q	m.06v36	m.016zwt	m.06mkj	m.015qh	m.0327fc	m.0164v	m.05c74	m.0h3y	m.03548	m.01znc_	m.0164b	m.0cdbq	m.01qlyt	m.02z62v1	m.01jv68	m.0jgx	m.0dd7dt	m.0dkz7x	m.0jgd	m.0k0gz	m.03gk2	m.034m8	m.02kcz	m.05vz3zq	m.015fr	m.020zwd	m.02vkl1t	m.0hdx8	m.02psqkz	m.01mzwp	m.03pn9	m.020d5	m.059j2	m.084n_	m.05r7t	m.021dh6	m.04thp	m.034tl	m.084gz	m.03gyl	m.03f2w	m.02jbz2	m.0cn3b	m.04vs9	m.0161c	m.01qzg7	m.047t_	m.05qhw	m.04sj3	m.014tss	m.0dv0z	m.0j5g9	m.06npd	m.0k6nt	m.02k54	m.0212ny	m.01nyl	m.0168t	m.0k5vl	m.0nyg5	m.0fv4v	m.02vkbz_	m.0163v	m.0577_c	m.03rj0	m.02k8k	m.01nhhz	m.07fj_	m.03t1s	m.05v8c	m.03nmzqx	m.0154j	m.0193qj	m.07ylj	m.0chghy	m.06nnj	m.07t21	m.0d060g	m.03rjj	m.01s5vl	m.01w32b	m.0d0kn	m.05b7q	
+food.food.nutrients..food.nutrition_fact.nutrient	88
+m.02kd5pc	m.0f4hc	m.0fqsk0y	m.025s7j4	m.02kc4sf	m.04zjxcz	m.0h1vz	m.02y_3rf	m.02nb4z	m.0h1vg	m.04y6pkv	m.014yzm	m.025tkqy	m.07q0m	m.0dcfv	m.0h1yy	m.05mbjl	m.05wvs	m.0h1yf	m.02qvz	m.07hnp	m.0czcds2	m.09gwd	m.0h1tz	m.02p0tjr	m.01w_3	m.05fjkn	m.025s7x6	m.02kc_w5	m.0h1tg	m.07zqy	m.014d7f	m.0cg1fv	m.08t7bd	m.0fzjh	m.05gh50	m.04qlf	m.061xhr	m.08dmjm	m.0hkwr	m.025sqz8	m.01_7l	m.04r6s	m.02kd8zw	m.02y_3rt	m.025sf8g	m.04k8n	m.0h1_c	m.0hqw8p_	m.01f5cb	m.0h1zw	m.041r51	m.03d49	m.09gvd	m.0f4l5	m.02kc5rj	m.0d9t0	m.01hslg	m.01n290	m.025rsfk	m.0g5gq	m.06jry	m.01sh2	m.01n78x	m.0838f	m.07ndr	m.025s0zp	m.02kc008	m.0f4k5	m.0f4jp	m.02kb_jm	m.013__p	m.0q01m	m.025rw19	m.06x3w	m.02kd0rh	m.0h1sg	m.0h1sz	m.025sf0_	m.0h1wg	m.06x4c	m.0f4kp	m.05f4jp	m.075pwf	m.09pbb	m.02kcv4x	m.025s0s0	m.0fmkp	
+location.location.time_zones	78
+m.03q7hb	m.071qmv	m.063w6x	m.0122vw	m.07c8x6	m.0gssgc	m.03nmg3d	m.07309s	m.0731hn	m.073166	m.0gss96	m.02lcqs	m.071qwp	m.07yfn_	m.0d5s1c	m.07v_1z	m.07vzyb	m.0gsrfj	m.03h1pml	m.02pjgkk	m.096m06	m.02hcv8	m.0gsrsm	m.0l6n5	m.02z080z	m.0br1v6	m.019zjx	m.058w1d	m.0bs_g2	m.02_37z	m.071qnz	m.04qqww	m.07vzqw	m.071qz9	m.03plfd	m.0bwvf7	m.02q_y6	m.04g13p_	m.0725s4	m.08g7s7	m.02k8gd	m.02lctm	m.071qls	m.052vwh	m.02lcrv	m.084q5v	m.07f57s	m.07311_	m.0csdwt	m.0730gz	m.026vxv7	m.084q1m	m.09bd8v	m.071qfh	m.038mkl	m.07f584	m.071qq0	m.0731l2	m.02fqwt	m.02llzg	m.071r4p	m.089__l	m.0frmgl	m.0ch2v5	m.073069	m.091pdj	m.0731b5	m.04cqj5	m.0bs_fc	m.02hczc	m.0725qd	m.019rdm	m.03bdv	m.0gssfp	m.05c54bd	m.0725yw	m.089__z	m.0gsrz4	
+biology.organism_classification.rank	16
+m.0gxj8	m.019dpj	m.06zf0	m.0grh7	m.0grj3	m.0gqpg	m.016g6_	m.01fxh4	m.019dp_	m.09lc9	m.0gqpx	m.01nlxs	m.019dnf	m.0b9r9	m.0f1qd	m.0fl35	
+astronomy.celestial_object.category	34
+m.0g3tzt	m.09wrk	m.01jzc9	m.0fjvv	m.05yvz	m.06wv0	m.01srj	m.0243f	m.05fny	m.039b5	m.0d_23	m.02lwkb	m.06ngk	m.03ch9	m.05p2x	m.0h3j0	m.01_5zx	m.02nm7	m.04b8hk	m.017lzp	m.0gggxt	m.05qc_	m.02lwbp	m.0k8ndf2	m.01h9vw	m.07v7c	m.07j0r	m.043tx4c	m.0175d9	m.0jvq	m.046lxl	m.03vgqq	m.0ggr_x	m.05d_y	
+music.artist.genre	204
+m.07lnk	m.09xw2	m.01243b	m.04t36	m.01_qs1	m.06fz4	m.0326g	m.016clz	m.0xjl2	m.0mccv	m.03ckfl9	m.0z9c	m.01_bkd	m.016jny	m.05r6t	m.041738	m.0k345	m.0hdf8	m.03p7rp	m.0xv2x	m.017_qw	m.01chg	m.01lyv	m.0dl5d	m.0ggx5q	m.09swn	m.0ggq0m	m.017371	m.05dql7	m.02yw0y	m.0glt670	m.050cj	m.01wtlq	m.02r6mf	m.06gk7	m.0hx98	m.0jmwg	m.02lkt	m.02qm5j	m.0jf1v	m.0gg8l	m.024sbq	m.07t13s	m.09v9jkf	m.03_d0	m.05pd6	m.01n4bh	m.062f2j	m.019ptn	m.01v9sc	m.0d9ncb	m.016cjb	m.0lc1r	m.01wqlc	m.0cx6f	m.06__c	m.01fbr2	m.029v_q	m.03dmnm	m.01lc7h	m.01kcty	m.012yc	m.016_rm	m.028cl7	m.02yh8l	m.02kx4w	m.02qzrvp	m.08z0wx	m.07rlj9	m.06cqb	m.01fsz	m.0jrgr	m.0bt7w	m.0jrv_	m.01swy6	m.04jbzw	m.0d6n1	m.0dls3	m.03fpx	m.0l8gh	m.059kh	m.064t9	m.06rqw	m.03lty	m.0190_q	m.05bt6j	m.0296y	m.0155w	m.07ym47	m.0l14gg	m.06n58	m.09qxq7	m.05p553	m.012xsy	m.0133_p	m.04n7jdv	m.07f1gq	m.029fbr	m.01gjw	m.0g64p	m.02t8gf	m.0cx779	m.01lw7y	m.03nxjb	m.01cbwl	m.026bk	m.057k3	m.0gywn	m.03ymzv	m.0190xp	m.0pm85	m.05w3f	m.07q6l3	m.021_z5	m.01h96	m.0138g2	m.03mb9	m.01ppfv	m.06m6j	m.02z7f3	m.016y3j	m.0123kb	m.03gq340	m.03cnzj	m.026z9	m.03ctl	m.0bcfy	m.07sbbz2	m.05lls	m.0bwqb	m.0g_9k	m.050tp	m.01d8k5	m.06924p	m.0p8w2	m.02mscn	m.06by7	m.02yv6b	m.0fd3y	m.05rwpb	m.07d2d	m.0164x2	m.0kv42	m.08zx0s	m.02w4v	m.0557q	m.0jxy	m.015tgr	m.05r5c	m.05jt_	m.03ky6	m.0cdgy	m.03339m	m.09jw2	m.0210vc	m.0173b0	m.0y4f8	m.05r9t	m.01m1y	m.0ln16	m.015y_n	m.02yw1c	m.01jwt	m.01fh36	m.0h08p	m.011j5x	m.01gjqb	m.02ntlj	m.05g9_	m.016_nr	m.02x8m	m.03k1db	m.01gbcf	m.0g_bh	m.0145rs	m.02qc3sg	m.0283d	m.07bbw	m.0827d	m.02vk5b6	m.0175zz	m.07gxw	m.04b675	m.017ht	m.016_v3	m.0178qc	m.0dyxz	m.01z7dr	m.08cyft	m.025g__	m.02ny8t	m.06j6l	m.02lnbg	m.0xhtw	m.07s72n	m.02l2pp	m.035wcs	m.02v2lh	m.0y3_8	m.0172rj	m.03ccvg2	m.01dqhq	m.03vyh	m.0g293	
+film.film.genre	102
+m.04t36	m.082gq	m.073_6	m.0h9fd	m.02822	m.05r6t	m.0h9qh	m.0k345	m.0215n	m.02hmvc	m.06ppq	m.0mdxd	m.01tz3c	m.02js9	m.07s9rl0	m.01hmnh	m.01hwc6	m.028v3	m.02kdv5l	m.01drsx	m.0hn10	m.04xvh5	m.0219x_	m.018tl7	m.0ltv	m.0fdjb	m.014dsx	m.0771_	m.0g65_	m.0bxg3	m.09kqc	m.0mz2	m.03g3w	m.0lsxr	m.08322	m.01qpc	m.04rlf	m.03npn	m.015w9s	m.02z0t_	m.0vjs6	m.05h0n	m.0d63kt	m.07s2s	m.0jb0t	m.017g5	m.0g092b	m.05p553	m.02xlf	m.023pxm	m.026ny	m.0dz8b	m.01chg	m.09ny0f	m.01jk9n	m.05ws7	m.0hcr	m.06qln	m.01rbb	m.0740gt	m.0q9mp	m.0g2k1	m.0jdm8	m.0127jb	m.0clz1b	m.06cvj	m.01nfk7	m.0qdzd	m.0557q	m.0jxy	m.0gf28	m.0hc1z	m.0hfjk	m.02l7c8	m.01j1n2	m.01jfsb	m.02n4kr	m.06www	m.01zhp	m.095bb	m.05jhg	m.02gk5	m.011ys5	m.02m4t	m.01q03	m.04228s	m.01f9r0	m.02xh1	m.01g6gs	m.02n4lw	m.0vgkd	m.0520lz	m.06nbt	m.03p67	m.06n90	m.0gw5w78	m.0jtdp	m.029z51	m.070yc	m.04k2v3	m.05542	m.0c3351	
+people.person.spouse_s..people.marriage.type_of_union	3
+m.0jgjn	m.04ztj	m.01bl8s	
+sports.pro_athlete.sports_played_professionally..sports.pro_sports_played.sport	60
+m.03krj	m.01z27	m.0bynt	m.01b57x	m.02vx4	m.0d38m	m.02c9p	m.02y8z	m.09_9n	m.06z68	m.06f41	m.0dv6r	m.01cgz	m.066wd	m.06zgc	m.09wz9	m.0194d	m.036vg6	m.0152n0	m.0w0d	m.0m926	m.0ltv	m.09xp_	m.03tmr	m.02_5h	m.03_8r	m.06h7j	m.0z74	m.04lhq	m.0jxw5	m.01sgl	m.0601q	m.01gqfm	m.09w1n	m.02bkg	m.0dn7v	m.01h7lh	m.07rlg	m.07bs0	m.04xz3	m.0m931	m.0f5cl	m.06wrt	m.07jbh	m.01ddm	m.048fg	m.0849l	m.03l5_	m.0163gn	m.018jz	m.07_53	m.071t0	m.018w8	m.01hp22	m.06_k_	m.06z6r	m.01dys	m.037hz	m.0jm_	m.07gyv	
+people.person.religion	139
+m.0qjh5	m.02vxy_	m.02rsw	m.0dtdq	m.01ld4n	m.0bxwf	m.05zsk	m.051kv	m.03yvh5	m.04y29	m.01274	m.07x21	m.02rxj	m.092bf5	m.0n2g	m.0703j	m.05g0g	m.06k2j	m.014_6h	m.01c1d1	m.06yyp	m.06gjr	m.01p248	m.0kq2	m.02dy2x	m.06x2m	m.01hd70	m.0g5llry	m.04t_mf	m.078tg	m.07gvx	m.016h7t	m.05jpk	m.044f0r	m.04t58	m.021_vk	m.0hzrx_c	m.01ns6v	m.05fv0	m.015y5m	m.01hd99	m.01lx5p	m.0d7wh	m.058x5	m.02sxh	m.01g1nn	m.01vzb5	m.01c2kj	m.06nv_	m.05my9	m.03j6c	m.02t7t	m.06h98	m.07l3j	m.04f46qr	m.0j96s	m.024kr	m.021rh_	m.02ctzb	m.0c5zg5	m.02wv83p	m.02l9d5	m.0631_	m.0xns7	m.0k251	m.025sr3l	m.0803k	m.04pk9	m.07mfk	m.01yszw	m.04xy3	m.0603p	m.01cntf	m.01h24x	m.042s9	m.02d11	m.01rdjg	m.01kgq	m.01c2mz	m.01lfhn	m.04xcx	m.0kpl	m.02pq7w	m.0c8wxp	m.033rnn	m.054_3w	m.0n1b1	m.0ps_	m.025t7ly	m.01rm61	m.06pq6	m.08356	m.0f2qf	m.0d4df1	m.07mc4	m.0flw86	m.01spm	m.01pgzf	m.027yl2	m.0pyv9	m.07w8f	m.01cjt	m.04jmfz	m.0kwr	m.06_wx	m.05sfs	m.06nzl	m.01t7j	m.019cr	m.05w5d	m.05g9_	m.05301	m.01s5nb	m.0g6mn	m.01y7r	m.05wfk	m.072w0	m.0n8r	m.02dmx	m.01lp8	m.0bk_9	m.0v53x	m.05tgm	m.0b06q	m.01x6n	m.0899b	m.02fz27	m.03_gx	m.078vc	m.01yjgy	m.01rkp	m.024gq	m.01r2p4	m.01p355	m.01qpg4	m.0blk0	m.02yvf8	m.07y1z	m.03kwb0	
+tv.tv_program.genre	123
+m.06wkf	m.04t36	m.082gq	m.0ldpy	m.0hzrwsj	m.02822	m.066wd	m.0215n	m.02hmvc	m.0dm00	m.01cjwd	m.09s1f	m.0mdxd	m.05qt0	m.06mq7	m.05q_wl	m.01tz3c	m.0513p6	m.02js9	m.07s9rl0	m.01hmnh	m.06zdj	m.028v3	m.09n3wz	m.03pmy7	m.0fmtd	m.02kdv5l	m.01drsx	m.0jxxt	m.04xvh5	m.05ws7	m.0ltv	m.0fdjb	m.014dsx	m.0g65_	m.03_jn4	m.0m1xv	m.0bxg3	m.0btmb	m.09kqc	m.0mz2	m.0751f	m.03g3w	m.05h83	m.0lsxr	m.08322	m.01qpc	m.04rlf	m.03npn	m.05t3wh	m.0vjs6	m.02jjt	m.0cvwrj	m.05h0n	m.07s2s	m.0jb0t	m.050z5g	m.05p553	m.02wbm	m.023pxm	m.02hwhyv	m.0751y	m.01mw1	m.034dj	m.09ny0f	m.035qb4	m.01jk9n	m.06q7n	m.0hcr	m.03cqqr	m.0c4xc	m.06qln	m.04xsv	m.0sqnr	m.01rbb	m.0740gt	m.025s89p	m.02k7y0	m.0214st	m.0clz1b	m.06cvj	m.09lmb	m.01rml	m.02mzct	m.0jxy	m.0gf28	m.0hc1z	m.070yc	m.0hfjk	m.02l7c8	m.01j1n2	m.01p7f	m.01jfsb	m.02n4kr	m.06www	m.095bb	m.05jhg	m.0c3351	m.01q03	m.01f9r0	m.01w613	m.02xh1	m.02jfc	m.014dfn	m.0vgkd	m.01lr9l	m.02px0wr	m.05542	m.06nbt	m.03p67	m.01rvlb	m.06n90	m.0q00t	m.03nk0g	m.0jtdp	m.09dhj	m.0fx2s	m.02hgvd	m.02vnz	m.01s43s	m.02z0t_	m.011ys5	m.0pr6f	
+location.hud_foreclosure_area.total_90_day_vacant_residential_addresses..measurement_unit.dated_integer.source	1
+m.0jbk9	
+location.hud_foreclosure_area.total_residential_addresses..measurement_unit.dated_integer.source	1
+m.0jbk9	
+location.hud_foreclosure_area.estimated_number_foreclosures..measurement_unit.dated_integer.source	1
+m.0jbk9	
+location.hud_foreclosure_area.hhuniv..measurement_unit.dated_integer.source	1
+m.0jbk9	
+location.hud_foreclosure_area.estimated_number_of_mortgages..measurement_unit.dated_integer.source	1
+m.0jbk9	
+film.film.language	153
+m.0247v	m.0gdqrk	m.0653m	m.01c7y	m.05zjd	m.064_8sq	m.03cqzc	m.0k580	m.06zvx	m.02hxvhl	m.0dds9	m.0295r	m.019yz7	m.064r7fk	m.02ckss	m.0ycv	m.06nm1	m.083tk	m.06ppq	m.02s2l	m.0148c4	m.0c_v2	m.01lqm	m.05f_3	m.01kbdv	m.0xrg	m.0t_2	m.0b1g2	m.0cn75	m.0my5	m.0jg5_	m.0k7zj	m.03x42	m.03_9r	m.09s02	m.02hwtky	m.07c9s	m.05p1x	m.01xrrm	m.02k30q	m.0c2j95	m.0688f	m.04t3_	m.071fb	m.04h9h	m.01m69	m.02x8ss6	m.034_x0	m.0g3cc	m.0fy02	m.0v0s	m.01gp_d	m.070zw	m.02fpb9	m.02002f	m.03115z	m.04306rv	m.028xxn	m.0gndv	m.0f8l9c	m.0880p	m.03yb_1	m.0nl8g	m.06x8y	m.07qv_	m.012psb	m.02hxcvy	m.04j9zqq	m.04lx1w	m.02nstd	m.0fxzlv	m.02shtt	m.01r2l	m.02hxc3j	m.02jcw	m.02r6frg	m.02hwhyv	m.01zn1j	m.03vsxc	m.02bv9	m.012w70	m.04mz4	m.07zrf	m.05p2d	m.03hkp	m.01bkv	m.05qqm	m.06b_j	m.0bqgs9	m.01y5q0	m.012v8	m.0311f_	m.09q16b	m.0999q	m.049ph	m.02hwl5z	m.01jb8r	m.032f6	m.03k50	m.06x0q	m.04d36l	m.01gmkg	m.0k0sv	m.014267	m.02c_bf	m.01wgr	m.0h18y	m.0459q4	m.045k00	m.0345h	m.0121sr	m.0g1jw	m.02hwyss	m.01hhg	m.02ztjwg	m.07ng6	m.01c44b	m.01vp3n	m.06b4d	m.01bvf	m.02h40lc	m.02zj58	m.098w6p	m.06mp7	m.0463599	m.0h0t4	m.02hwv_5	m.097kp	m.0349s	m.0y1mh	m.0jfs6	m.0djq03	m.01xls2	m.06rt9	m.03pmt	m.0322q8	m.01q5d9	m.02hxmtm	m.0k0sb	m.06x06	m.07pd45	m.0dxj6	m.02drlb	m.02bjrlw	m.017yph	m.0x82	m.017k6	m.01307m	m.0swlx	m.0cjk9	m.0jzc	m.0nj_l	m.01841n	
+astronomy.star_system_body.star_system	2
+m.03sfx_	m.06p5g	
+basketball.basketball_player.player_statistics..basketball.basketball_player_stats.season	37
+m.08mdhv	m.09759j	m.0994_r	m.080b2d	m.080sc7	m.096z30	m.080kw1	m.09bjp8	m.08lw15	m.09b5jv	m.0993hq	m.08p_89	m.08s093	m.09nl1c	m.0dsb05	m.08hn_f	m.095wtg	m.07z2hs	m.09nl65	m.096mjy	m.07j1pw	m.080bhx	m.08vg9r	m.08w956	m.08rm43	m.09068d	m.0802lk	m.05zwpwz	m.08030z	m.099bj0	m.08_vqd	m.08hplf	m.095_24	m.07_x8s	m.09nky6	m.0415nl7	m.08n6zb	
+sports.sports_team.roster..sports.sports_team_roster.position	33
+m.0355dz	m.0ctt4z	m.017drs	m.02_j1w	m.03c0v_6	m.01sdzg	m.03c0w1m	m.02g_6x	m.01r3hr	m.02dwn9	m.05ch8k4	m.05ch8k9	m.02nzb8	m.047g8h	m.02sddg	m.02_ssl	m.01yvvn	m.01z9v6	m.0619m3	m.02md_2	m.03558l	m.028c_8	m.02g_7z	m.02lyr4	m.02sdk9v	m.02dwpf	m.02sf_r	m.0dgrmp	m.073nm7	m.02rsl1	m.06b1q	m.01pv51	m.02wszf	
+people.person.ethnicity	257
+m.0j4w_	m.01g3rx	m.01cxrh	m.0fp54b	m.09vc4s	m.02pxhxy	m.0p_y8	m.047rnsl	m.048z7l	m.0hnv0	m.02wtzf	m.059v8	m.01xhh5	m.03hf_6z	m.03ndvw	m.0fk3s	m.01m_rj	m.03y2ff	m.0165md	m.038cy	m.03ts0c	m.04_hr_	m.07hwkr	m.0g0y1	m.012fh	m.0jt85pd	m.017sq0	m.013b6_	m.081scg	m.03nt3h	m.05g0f1	m.01crfj	m.03x1x	m.01ylpf	m.025tvhm	m.02vsw1	m.05748	m.0152wh	m.0268_k	m.01c034	m.05nbz_	m.0x67	m.053vn8	m.05sf2x	m.0bbz66j	m.05fc7v	m.05p72	m.013b7g	m.08k5jg	m.0g6g7	m.038723	m.0g5y6	m.08hpk0	m.03r9vh	m.01rv7x	m.07226h	m.02xq9m	m.0xnvg	m.0cx3p	m.0338zd	m.0c5t3	m.07xns	m.02xphm	m.0fp4n	m.0bpjh3	m.06bkf	m.01p7s6	m.01l0zt	m.0g6ff	m.0dbxy	m.06j2v	m.019kn7	m.04sp3	m.018hlv	m.0bzkm2	m.0jt7v76	m.012vvx	m.027wjq	m.0301xt	m.033tf_	m.096y6f	m.09zyn5	m.0g96wd	m.03c8vzn	m.03bx0k4	m.042dzs	m.01bb50	m.025pgh	m.02fzk9	m.0kt45	m.019v2y	m.016wtv	m.013s3n	m.02jrwy	m.012f86	m.01n94b	m.03f3sf	m.01kthj	m.050w97	m.013z8m	m.0j6x8	m.04mmhj	m.01gr8h	m.09f5v	m.01tyl3	m.04c28	m.0fz6b	m.03bkbh	m.02ctzb	m.04q3hbq	m.033qxt	m.01f0hl	m.025rpb0	m.05h5mkp	m.04gfy7	m.0301y_	m.0583cz	m.05cc9h	m.013s2p	m.01kl66	m.041rx	m.03nv8v	m.01l0ty	m.02w7gg	m.06xwms	m.059_w	m.06vw5t	m.01mw1s	m.02sch9	m.0pzdp	m.03j1x	m.04jq32s	m.033qt1	m.04_35x	m.025_0f0	m.01_5cg	m.09gp4	m.075lyt	m.09743	m.0fk1z	m.0j_nf	m.01gby2	m.0cqgdq	m.0qmq	m.04fh1b	m.021pd	m.035b50	m.03d923f	m.0738n4	m.01n3zc	m.01336l	m.02tp3p	m.022fdt	m.013s41	m.0222qb	m.06mth_	m.06616mh	m.019lrz	m.0180zw	m.04l_pt	m.0gcpd0	m.03lmx1	m.04ccd5	m.015rfx	m.04q7gbh	m.014zsv	m.07wsyr	m.01nbcy	m.0j4s1	m.01qhm_	m.057bs2	m.04ggbzy	m.04bpd	m.0h5cbz	m.06v41q	m.06mvq	m.05l3g_	m.03vv99	m.01sq7s	m.01ksl0	m.0xff	m.01h4n	m.0869mz	m.0562tw	m.0d7wh	m.08v2k7	m.0165qp	m.01wwxl	m.03vghh	m.02mq_4	m.029f2r	m.01nft3	m.07tc8	m.08c25t	m.0pxtm	m.04wysy	m.064pj	m.09f6v	m.013xrm	m.01vr3v	m.03fk0c	m.01hwt	m.01kb9y	m.0f0gt_	m.07d_p8	m.01j2qv	m.013bbv	m.01nxwc	m.01xbtl	m.071x0k	m.0ftwg	m.0c50f	m.0318mh	m.0432mrk	m.02nk7_	m.039z49	m.03lnnd	m.01g7zj	m.01srl7	m.04czx7	m.078ds	m.01pn8r	m.02c31t	m.088zs	m.027n1m6	m.06rd7	m.0g6l2	m.012c1l	m.07f632	m.0d2by	m.0cn68	m.02p5zsd	m.029q52	m.03nvq	m.02gx2x	m.06gbnc	m.02k75d	m.061p2g	m.095mw2	m.0bymc	m.0f06xq	m.02qpcqh	m.03q819	m.02kr2h	m.03w2dv	m.0163tw	m.01267	m.01ywdy	m.0274qz_	m.01d7kx	m.04m80w	m.013y54	m.04nrnz	m.0161cl	m.03ttfc	m.031f24	m.01nbjb	
+film.film.other_crew..film.film_crew_gig.film_crew_role	69
+m.02sqzl	m.09zzb8	m.0dxtw	m.0bsgs4	m.03f_s3	m.025rtp6	m.02kxqjr	m.04yn8	m.018rn4	m.06qc5	m.089fss	m.01c979	m.028kk_	m.0513qg_	m.09f5wvf	m.018j6p	m.04pyp5	m.094hwz	m.01xy5l_	m.0fhtks	m.0ds4x	m.0c_t7v	m.014kbl	m.02n9jv	m.020xn5	m.05kd4d6	m.019nmt	m.0168w8	m.02hsh8d	m.0c1dj	m.03bx017	m.012_02	m.015h31	m.04l1gwb	m.02h6ny1	m.05smlt	m.019x4f	m.02p78mx	m.0f23v_	m.052l58d	m.02ynfr	m.02h6yqq	m.0c6zkt	m.02t8yb	m.02h6n_q	m.033smt	m.012qyb	m.0b787yg	m.01pvkk	m.0dgd_	m.01y09y	m.0b9sfj	m.02nxqmh	m.01bw9x	m.0ckd1	m.0l14gg	m.0gfj96l	m.03b0cv	m.0d2pty	m.015cjr	m.01d_h8	m.01c72t	m.03yvvsn	m.02r96rf	m.0n1h	m.0215j4	m.01tkqy	m.02y6fz	m.01zhp	
+film.film.country	94
+m.09c7w0	m.07ww5	m.04g61	m.04v3q	m.06t2t	m.016zwt	m.06mkj	m.015qh	m.0d0vqn	m.01p1v	m.02jx1	m.0d05w3	m.01mk6	m.01pj7	m.03rt9	m.0jgd	m.05b4w	m.07s9rl0	m.077qn	m.0my5	m.02k1b	m.06mzp	m.04wlh	m.01ls2	m.01k0p4	m.05vz3zq	m.015fr	m.04wgh	m.0h44w	m.0154j	m.02vzc	m.03gj2	m.01mjq	m.0f8l9c	m.082fr	m.059j2	m.05sb1	m.084n_	m.03gyl	m.03h64	m.087vz	m.03spz	m.01znc_	m.09pmkv	m.05qhw	m.047lj	m.059z0	m.014tss	m.06bnz	m.06npd	m.0k6nt	m.0h7x	m.016wzw	m.03shp	m.01rhrd	m.0hzlz	m.0160w	m.06qd3	m.0nyg5	m.07f1x	m.06dfg	m.06t8v	m.0345h	m.06f32	m.03rj0	m.07fj_	m.05v8c	m.07ssc	m.04g5k	m.0d04z6	m.0ctw_b	m.0j1z8	m.04j53	m.0jdd	m.0jdx	m.06q1r	m.04gzd	m.035qy	m.07ylj	m.0chghy	m.03rk0	m.07bxhl	m.07t21	m.0b90_r	m.0166b	m.0d060g	m.0166v	m.03rjj	m.02kmm	m.05b7q	m.01crd5	m.03ryn	m.06c1y	m.03_3d	
+soccer.football_player.position_s	6
+m.0dgrmp	m.02nzb8	m.02_j1w	m.03c0v_6	m.03c0w1m	m.02sdk9v	
+astronomy.asteroid.member_of_asteroid_group	12
+m.027ktls	m.07m61	m.029089	m.04154sz	m.0290ms	m.0cqbc	m.02907k	m.02st8m	m.0290nk	m.03hftwv	m.0crxp	m.0175d9	
+media_common.netflix_title.netflix_genres	124
+m.03spz	m.0653m	m.01c7y	m.04t36	m.05zjd	m.02vx4	m.064_8sq	m.07bs0	m.06mkj	m.0852z	m.05qdh	m.0g5lhl7	m.024qqx	m.0h9qh	m.016z4k	m.0215n	m.06nm1	m.05xbx	m.0d05w3	m.06ppq	m.0c_v2	m.02bv9	m.05f_3	m.0349s	m.01hmnh	m.0ljc_	m.017fx5	m.07s9rl0	m.02g597	m.018jz	m.0jgd	m.03_9r	m.0dg3n1	m.0hn10	m.016cjb	m.0219x_	m.01mjq	m.0ltv	m.015fr	m.0kc8y	m.0154j	m.029tx	m.09b69	m.01cgz	m.036vg6	m.04306rv	m.064t9	m.03npn	m.0f8l9c	m.015w9s	m.0kc9f	m.06x8y	m.0d63kt	m.059j2	m.05p553	m.0kctd	m.05r6t	m.01zcrv	m.02blr4	m.03h64	m.0295r	m.07qv_	m.02hwhyv	m.0ggq0m	m.01chg	m.012w70	m.048dz	m.05qhw	m.03hkp	m.05qqm	m.06bnz	m.07zrf	m.07yjb	m.0146mv	m.026z9	m.04jjy	m.03shp	m.07ssc	m.02pyg	m.07c52	m.032f6	m.03k50	m.06b_j	m.06qd3	m.01wgr	m.09lmb	m.07f1x	m.0jxxt	m.017fp	m.018w8	m.0345h	m.0hfjk	m.037hz	m.02l7c8	m.01j1n2	m.05v8c	m.07c1v	m.01jfsb	m.02ztjwg	m.02n4kr	m.09b3v	m.05g9_	m.018h2	m.06mp7	m.0c3351	m.039cq4	m.035qy	m.02xh1	m.0jzc	m.04wsz	m.06mx8	m.03rk0	m.0b90_r	m.073q1	m.03rjj	m.04rqd	m.0gw5w78	m.0jtdp	m.02bjrlw	m.03_gx	m.03mdt	m.081k8	m.03tmr	m.03_3d	
+education.educational_institution.students_graduates..education.education.degree	55
+m.02mjs7	m.03p192	m.027np7	m.090fz4	m.013zdg	m.02pvqx	m.03bwzr4	m.0804kq	m.04lckq	m.016bnh	m.023tbs	m.07sldb	m.01_scg	m.01rr_d	m.047dfh4	m.0304n4	m.02_xgp2	m.025tjcb	m.03hg3j	m.02cqwf	m.08xxzr	m.02h4rq6	m.0143fl	m.026vkmv	m.0b3z17	m.079h0	m.051y3r	m.0djzpg	m.071tyz	m.063q_0	m.02m4yg	m.0269pb	m.0266qtf	m.014mlp	m.07s6fsf	m.02cq61	m.019v9k	m.0bpgx	m.01yslh	m.08wwrq	m.04zx3q1	m.03xfm7	m.01_pjz	m.07yvrl	m.01gkg3	m.0bkj86	m.07kf68s	m.06jq4d	m.0g26h	m.036s2g	m.0ch34z	m.01ysy9	m.03mkk4	m.016t_3	m.027f2w	
+cvg.computer_videogame.cvg_genre	95
+m.04924s	m.01bdy	m.02vx4	m.07bs0	m.02hygl	m.045_yw	m.025tk5r	m.066wd	m.01k6bs	m.02lzy0	m.015_x	m.033th	m.04q1x3q	m.01hmnh	m.018jz	m.02xjx4	m.030qqw	m.02kdv5l	m.03hf_rm	m.035tdq	m.07yqn	m.03npn	m.05rs5x	m.0d9jl_	m.0g65_	m.038_hy	m.09qf5	m.0bcp7	m.035bv3	m.026j975	m.02gjj1	m.022dc6	m.01qpc	m.04rlf	m.02d_pq	m.02c6t_	m.0kw6d	m.0bm_gz	m.03qcgj7	m.057m6	m.0bpsmq	m.0gfk5	m.0f9s9	m.0byj4	m.051wn2	m.081yd	m.01j17q	m.06zm8z	m.02z88g	m.0b1vjn	m.0216z	m.01sjng	m.015ll	m.03wc16	m.02ljst	m.04f3w5j	m.0k80c	m.051y6	m.0403l3g	m.01qxvh	m.02ntfj	m.024jcd	m.01kjbs	m.0kwh4	m.025zzc	m.09l27d	m.02stb2	m.07yr3	m.0x27b	m.018w8	m.0gf28	m.0hc1z	m.01sjp9	m.0hfjk	m.037hz	m.02kl0g	m.0bynt	m.01jfsb	m.02n4kr	m.06www	m.01mtt	m.016fr_	m.02x9hs	m.0f6b97	m.02jfc	m.01qf5x	m.015n_w	m.0vgkd	m.06c9r	m.0349q2	m.06n90	m.021bp2	m.06l9b	m.03tmb	m.01xzxn	
+organization.organization.headquarters..location.mailing_address.country	124
+m.05qx1	m.09c7w0	m.04g61	m.04v3q	m.06t2t	m.06mkj	m.015qh	m.0d0vqn	m.05cgv	m.01p1v	m.047yc	m.019pcs	m.02jx1	m.0d05w3	m.0h3y	m.01znc_	m.03rt9	m.01p8s	m.05b4w	m.0165b	m.077qn	m.0jgx	m.02wt0	m.0jgd	m.06mzp	m.01nty	m.01ls2	m.02wzv	m.07t_x	m.015fr	m.0163v	m.0154j	m.02vzc	m.01z88t	m.01ppq	m.02k1b	m.05r4w	m.07dvs	m.03gj2	m.01mjq	m.0f8l9c	m.0162b	m.05qkp	m.059j2	m.05sb1	m.05r7t	m.05l8y	m.04hqz	m.04xn_	m.04thp	m.03h64	m.02kmm	m.03spz	m.06bnz	m.088q4	m.0161c	m.01pj7	m.04tr1	m.09pmkv	m.05qhw	m.0g8bw	m.047lj	m.01xbgx	m.0dv0z	m.0j5g9	m.06npd	m.0k6nt	m.04w58	m.02k54	m.016wzw	m.0345_	m.03shp	m.07ssc	m.04hhv	m.0hzlz	m.06qd3	m.0h7x	m.01z215	m.07f1x	m.04wgh	m.06t8v	m.0345h	m.06f32	m.0697s	m.05bcl	m.06sw9	m.07tp2	m.03rj0	m.035v3	m.07fj_	m.03t1s	m.06vbd	m.05v8c	m.04g5k	m.0d04z6	m.0ctw_b	m.0j1z8	m.04j53	m.0d05q4	m.0jdd	m.0jdx	m.06q1r	m.04gzd	m.035qy	m.07dzf	m.07ylj	m.0chghy	m.04w8f	m.03rk0	m.07t21	m.0b90_r	m.0d060g	m.0166v	m.04gqr	m.03rjj	m.019rg5	m.0d0kn	m.037nm	m.05b7q	m.01crd5	m.03ryn	m.06c1y	m.03_3d	m.07ytt	
+sports.pro_athlete.teams..sports.sports_team_roster.position	28
+m.0355dz	m.0ctt4z	m.017drs	m.02_j1w	m.02s7tr	m.01sdzg	m.02g_6x	m.01r3hr	m.05ch8k4	m.05ch8k9	m.02nzb8	m.047g8h	m.02_ssl	m.01yvvn	m.01z9v6	m.0619m3	m.03558l	m.028c_8	m.02g_7z	m.02lyr4	m.02sdk9v	m.02dwpf	m.02sf_r	m.0dgrmp	m.02rsl1	m.06b1q	m.01pv51	m.02wszf	
+music.album.genre	133
+m.07lnk	m.01243b	m.016clz	m.03ckfl9	m.01_bkd	m.016jny	m.05r6t	m.041738	m.0k345	m.0hdf8	m.03p7rp	m.021_z5	m.017_qw	m.0283d	m.01lyv	m.0dl5d	m.0ggx5q	m.0ggq0m	m.07bbw	m.02yw0y	m.0glt670	m.01wtlq	m.0xjl2	m.0jmwg	m.02lkt	m.02qm5j	m.0gg8l	m.024sbq	m.07t13s	m.09v9jkf	m.03_d0	m.05pd6	m.01n4bh	m.0190xp	m.0d9ncb	m.016cjb	m.0lc1r	m.0cx6f	m.06__c	m.01fbr2	m.01kcty	m.012yc	m.011j5x	m.02x8m	m.02yh8l	m.02kx4w	m.02qzrvp	m.08z0wx	m.07rlj9	m.06cqb	m.0jrgr	m.0bt7w	m.0jrv_	m.0dls3	m.059kh	m.064t9	m.06rqw	m.03lty	m.0190_q	m.01cbwl	m.0296y	m.0155w	m.0l14gg	m.09qxq7	m.012xsy	m.01z7dr	m.0dhb2	m.01gjw	m.02t8gf	m.03nxjb	m.05bt6j	m.0gywn	m.03ymzv	m.062f2j	m.0pm85	m.05w3f	m.0xv2x	m.03mb9	m.016y3j	m.03cnzj	m.026z9	m.05r9t	m.07sbbz2	m.0g_bh	m.0g_9k	m.050tp	m.01d8k5	m.06924p	m.06by7	m.02yv6b	m.0fd3y	m.05rwpb	m.07d2d	m.08zx0s	m.02w4v	m.0557q	m.015tgr	m.05jt_	m.04n7jdv	m.0133_p	m.09jw2	m.0210vc	m.0173b0	m.029fbr	m.01m1y	m.015y_n	m.02yw1c	m.01jwt	m.0h08p	m.02ntlj	m.05g9_	m.02v2lh	m.017371	m.0827d	m.0175zz	m.07gxw	m.04b675	m.03vyh	m.016_v3	m.08cyft	m.025g__	m.02ny8t	m.06j6l	m.02lnbg	m.05lls	m.0xhtw	m.035wcs	m.0dyxz	m.0y3_8	m.0172rj	m.023vk	m.07s72n	m.0g293	
+astronomy.astronomical_discovery.discovery_site	43
+m.01cw9p	m.0c005	m.0bnpwh	m.02pv3dj	m.04djz	m.08c8jg	m.0394ss	m.03y4pm	m.0clbp2	m.0582v4	m.09gvcz	m.01njqp	m.02_st0	m.09v5vx	m.079g38	m.03dhnr	m.056y6j	m.022tzk	m.04d_t_7	m.0975t6	m.01f913	m.03_jr7	m.0409_c	m.0926kb	m.08g2mb	m.029w69	m.01606j	m.0by04	m.0kyyk	m.0748xp	m.02th4_	m.08__f_	m.03y4yx	m.02v2p3	m.08c7p6	m.02chwm	m.01f8r7	m.08k4xy	m.01f8qf	m.06lpnm	m.02thz1	m.02xlbx	m.07bp07	
+music.album.release_type	4
+m.0l14fq	m.0l14g2	m.014k0b	m.02lx2r	
+astronomy.astronomical_discovery.discoverer	124
+m.0bsbf	m.02x38c	m.02sjk8	m.02sb9y	m.02shvl	m.03b20_	m.02r_6r	m.02tlgy	m.02srxz	m.0bkzt	m.02sr7x	m.01by3y	m.02t25b	m.039jyw	m.02sdx4	m.02sdty	m.02y0jc	m.03d3nm	m.025dh7	m.01l89j	m.02sjcl	m.02phsh	m.03b3tc	m.017xvy	m.02sck4	m.02sfmn	m.02xz0t	m.02x7sj	m.02t6p1	m.02xl53	m.02sbm6	m.08649	m.039207	m.038z0s	m.0392ld	m.02lx3y	m.02yqhq	m.02t5sk	m.02sjfl	m.02ypqf	m.02tp55	m.02tc_k	m.02xw9z	m.02sd46	m.0392n5	m.02bw8x	m.034ks	m.02tdd8	m.043f4	m.02x6cx	m.0kr3d	m.02y0lt	m.0392fw	m.02x31d	m.02x3c2	m.02xn08	m.038_4_	m.02y8fy	m.0blddg	m.01_4qg	m.018hcz	m.02sfw8	m.02th0q	m.02w8bg	m.02scww	m.02yq7q	m.02tmtt	m.02x3x4	m.01d9_n	m.02s_j5	m.02sh_7	m.02tlsn	m.03927g	m.03b5dh	m.02sfqc	m.02tp9_	m.02szzn	m.02x931	m.02xz3q	m.02tvlb	m.038_21	m.02sb_6	m.02yq9v	m.02sbyh	m.02sfyr	m.039175	m.02x8rx	m.03syl8	m.02rcb9	m.02ttmd	m.02xnc1	m.01b6sb	m.017tf2	m.017c4r	m.02sfpy	m.02xb9z	m.05_m5	m.07d2x	m.03929k	m.02tcjj	m.02tsss	m.01ylz	m.080f7w3	m.02sc7x	m.02x96q	m.02r_8z	m.012f3x	m.02sbtp	m.01ktnp	m.017xwf	m.03wv64	m.02x9cc	m.03y5p0	m.02lxc9	m.03b1h0	m.033bb1	m.025tmv1	m.02lx70	m.02t411	m.02xbkk	m.02t6c_	m.01gbr3	m.02t1_d	m.038_5c	
+music.release.region	19
+m.02j71	m.06f32	m.07ssc	m.0d0vqn	m.09c7w0	m.06qd3	m.0d060g	m.0345h	m.06t2t	m.0k6nt	m.09pmkv	m.0f8l9c	m.0d05w3	m.03h64	m.059j2	m.03_3d	m.0chghy	m.02j9z	m.03rjj	
+location.statistical_region.rent50_2..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+location.statistical_region.rent50_0..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+location.statistical_region.rent50_4..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+location.statistical_region.rent50_3..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+location.statistical_region.rent50_1..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+business.business_operation.industry	193
+m.0cv_j	m.07ly_	m.01jnzj	m.04dp32	m.01bs4t	m.06mbny	m.07clx	m.023907r	m.0kcc7	m.019z7b	m.017cmr	m.09w5yw	m.0dnkv	m.06ntj	m.06xw2	m.02qqd4n	m.025sbhf	m.01h1dd	m.02cwm	m.074j35	m.07bm98	m.0ptdk	m.01w362	m.03p_dc	m.05b058	m.02pvv6t	m.07yrm	m.01_bhs	m.02lts	m.02vxn	m.01ftz	m.02wwdq	m.07tb9	m.0dfmm	m.0w7s	m.04xdd	m.04058p	m.01r4k	m.0g10z	m.0j24d_1	m.0fzyg	m.0c5mq	m.01m9s	m.0sydc	m.04rlf	m.0dnr7	m.02b9_y	m.02q3wl	m.0_2bn	m.04kq62	m.0641k	m.04njq1	m.03nfmq	m.085n4	m.029czc	m.0vg8	m.0cx6y	m.086df	m.0ccf7n	m.024bm	m.06xbd	m.04xk5b	m.09t4t	m.02ky346	m.03rv_	m.03r8gp	m.02w7h	m.0cc73	m.02jjt	m.053rd	m.06cs1	m.01jpn4	m.015p1m	m.01s8lr	m.021ny	m.012t1t	m.019mlh	m.0hz28	m.0fw68	m.022x_	m.014pz4	m.04qjjn	m.01m2bt	m.02mrp	m.018tkd	m.0pjxv	m.01d2_z	m.05wkw	m.05jnl	m.02wbm	m.01sy7	m.0g_8n	m.0147gr	m.08mh3kd	m.029g_vk	m.03gv6_	m.04z0z	m.0jzgd	m.015ll	m.034qg	m.01j7s5	m.076k0	m.01mw1	m.02wv6th	m.02lp1	m.03qh03g	m.03nw7w	m.0735l	m.062zr	m.02mm_	m.01ynw	m.020mfr	m.07c52	m.04fm00	m.02_7t	m.02m96	m.05k4k	m.06d_3	m.04s13	m.047m52	m.01b4x4	m.0829v	m.05b6l8	m.03r30	m.056bx	m.03pty	m.0c_jw	m.01pqv2	m.0727xx	m.06q83	m.01sgl	m.0d3fyv	m.02_spr	m.07k6dg	m.02w1b8	m.014trl	m.011s0	m.03ytc	m.016jq3	m.07r04	m.03821	m.03y18t	m.01zhp	m.01qb67	m.01q82	m.07c1v	m.02vjn0	m.034dj	m.0ht3p	m.04gb7	m.0682j7	m.02kq2n	m.05zdp	m.0191_7	m.019gwt	m.01h8pw	m.02h400t	m.0hkf	m.01mf0	m.06l8d	m.012mj	m.0k9sx	m.02jv7	m.09dh0	m.02jfc	m.01l1w_	m.01lr_q	m.0bk0p	m.06k_y	m.01mw2x	m.049164	m.05z07s	m.0217jt	m.03xks	m.02wdy8	m.0138tl	m.06c9r	m.08hnjb	m.02n9jv	m.017kvv	m.0hcr	m.09j2d	m.0g4gr	m.012sxl	m.0g_fl	m.04x_3	m.01phdl	m.01lgkm	m.01mfj	m.01pjyj	m.04rh6b	m.05ktj_	m.07bxq	
+tv.tv_program.languages	62
+m.02hwhyv	m.09q16b	m.0653m	m.02k30q	m.01c7y	m.09c7w0	m.02bv9	m.064_8sq	m.02ztjwg	m.012v8	m.01c44b	m.012w70	m.071fb	m.02s2l	m.02kdw56	m.02h40lc	m.03hkp	m.03sn97	m.05qqm	m.0fy02	m.0295r	m.01gp_d	m.07zrf	m.06nm1	m.0cjk9	m.0k0sb	m.097kp	m.049ph	m.083tk	m.03115z	m.04306rv	m.0y1mh	m.011ln5	m.0148c4	m.0c_v2	m.05zjd	m.07ssc	m.05f_3	m.0349s	m.0880p	m.01jb8r	m.032f6	m.02bjrlw	m.06b_j	m.0t_2	m.07qv_	m.02zj58	m.0k0sv	m.07pd45	m.04j9zqq	m.03k50	m.0g5tm	m.03x42	m.0fxzlv	m.0459q4	m.06mp7	m.03_9r	m.0jzc	m.01r2l	m.0g1jw	m.02hxc3j	m.02hwyss	
+organization.organization.leadership..organization.leadership.role	31
+m.025f94	m.028bd1f	m.03747v	m.0130xz	m.0krdk	m.0fkvn	m.01xp_h	m.05c0jwl	m.0ctgqs	m.01lqvg	m.0fj45	m.05k17c	m.06hpx2	m.04t64n	m.01kr6k	m.0dq3c	m.060c4	m.09d6p2	m.026b7s	m.063lz	m.0c02n	m.01jp15	m.0dq_5	m.027qb1	m.07xl34	m.08fdc3	m.01yc02	m.02wlwtm	m.05172y	m.02vk5s1	m.02y6fz	
+music.release.format	11
+m.0jy36	m.0174nj	m.029j_	m.0hg6h	m.01fxbc	m.01zjj	m.035yq8	m.023s_v	m.0brkq	m.025t84t	m.01www	
+computer.software.compatible_oses..computer.software_compatibility.operating_system	99
+m.04dvf5	m.06w1hrp	m.0346_	m.0ddcs3d	m.0chnf	m.026kds	m.09g6490	m.03rl9	m.05d5q_	m.0511f	m.02x8rd	m.02zrx4	m.04sn4	m.01qwlj	m.050xd	m.047glqs	m.01j9n	m.076gw8	m.02k3d1	m.07tnp	m.01hj3c	m.01_0f	m.04r_8	m.05_30hd	m.0jgf9	m.0vvw	m.0gvswcc	m.0kyzf	m.05t0l	m.06vnt	m.01d4yq	m.06d4fz	m.0h97jwg	m.083f2	m.031y74	m.0zd6	m.0566rg	m.0hbbd	m.028lv	m.03qnx49	m.0fpzzp	m.03wcdfz	m.07drgr	m.02wxtgw	m.0k0b_	m.0b3_3	m.0pbnl	m.0dy87	m.0c8vf	m.016f4x	m.0dgr7fs	m.02ydx	m.085_2	m.01yn3j	m.0wwq	m.01q_j5	m.047gr_s	m.07scx	m.0266rj4	m.01dj_j	m.0fp_qpv	m.0ddfq4m	m.012_5y	m.01f5l	m.01_nzb	m.02996	m.07687	m.0bs7d	m.03wbl14	m.080ph	m.079d8p	m.04pm6	m.03cppl	m.0gvv9b5	m.05lwm	m.0lpwk7_	m.085j0	m.095c4	m.02bssm	m.02prjf	m.03x5qm	m.09c94	m.03g7l	m.04pbzc	m.0716b6	m.07605	m.0k0fz	m.05b4fvc	m.05l_5	m.01pq99	m.0dr_08g	m.02pxwz1	m.05d82	m.02pd5y	m.0nd4x	m.055yr	m.086n_	m.06hkz	m.0bbv_rf	
+book.book.genre	124
+m.01mkq	m.06wkf	m.03t3dt	m.01p4b_	m.01vnb	m.02822	m.07g8l	m.0174gw	m.07s9rl0	m.05qt0	m.06ms6	m.01hmnh	m.01tz3c	m.070l2	m.02js9	m.09s1f	m.0l67h	m.04n87l	m.02t97	m.028v3	m.016wfg	m.02kdv5l	m.023kjl	m.0kz5r	m.0127jb	m.01f2vp	m.0fdjb	m.04sh3	m.014dsx	m.017fp	m.07vsrl	m.06f1h	m.0bxg3	m.05r79	m.09kqc	m.0mz2	m.03g3w	m.023py	m.01b94v	m.05h83	m.0lsxr	m.08322	m.01qpc	m.03npn	m.0g_jj	m.05h0n	m.0tl2	m.07s2s	m.02j62	m.0972s	m.01h6rj	m.013d41	m.050z5g	m.0cgtj	m.05p553	m.02jcc	m.02xlf	m.0crnf	m.065q54	m.0lwp8	m.02gsv	m.01jym	m.016chh	m.01j1n2	m.01pxgq	m.034p8	m.09xq9d	m.0dwly	m.01qxvh	m.02mdj1	m.0277ppz	m.039vk	m.03lrw	m.04rjg	m.0707q	m.037mh8	m.06cvj	m.05hgj	m.0lz_4	m.035r7t	m.016475	m.0gf28	m.0hc1z	m.0hfjk	m.06bvp	m.06mq7	m.070wm	m.01jfsb	m.04gb7	m.048945	m.02n4kr	m.06www	m.0hwxm	m.06hsk	m.0h5k	m.0c3351	m.02m4t	m.05qfh	m.02jfw	m.026ny	m.02_h0	m.03qfd	m.05qp9	m.014dfn	m.04g51	m.0vgkd	m.01mf_	m.03mfnf	m.06n6p	m.01lp8	m.06nbt	m.01lph_	m.01rvlb	m.06n90	m.05qgc	m.021wb	m.070yc	m.0fx2s	m.0xdf	m.02kw4	m.05542	m.011ys5	m.026n0	m.0q9mp	
+film.film.release_date_s..film.film_regional_release_date.film_release_distribution_medium	9
+m.019t97	m.07z4p	m.029j_	m.02nxhr	m.01lxst	m.0dq6p	m.02nxm3	m.07c52	m.0735l	
+music.group_member.instruments_played	79
+m.03m5k	m.026g73	m.07m2y	m.047bl	m.036tl_	m.02w4bh	m.02w31h	m.01xqw	m.06ch55	m.013y1f	m.06jvx	m.0l14j_	m.07kc_	m.023r2x	m.06ncr	m.02sgy	m.01v1d8	m.042v_gx	m.0xzly	m.07brj	m.03qjg	m.01rhl	m.04q7r	m.018j2	m.05148p4	m.0dwt5	m.0g2dz	m.01c3q	m.07f0yf	m.01s0ps	m.02rlwt	m.0l78p	m.07gql	m.0342h	m.04rzd	m.01wy6	m.0bm02	m.026t6	m.020w2	m.02hnl	m.0dwr4	m.07_l6	m.0l14md	m.0myk8	m.02t89	m.0l14qv	m.01k6_b	m.05kms	m.0d8lm	m.01399x	m.0mkg	m.057cc	m.04vt_1	m.0192l	m.0mcqy	m.0dwtp	m.07c6l	m.01vdm0	m.07xzm	m.07_y4	m.0dwvl	m.023ws	m.0395lw	m.019v72	m.060jx	m.02pprs	m.02fsn	m.0dwsp	m.01zzbp	m.01sl60	m.03q5t	m.011k_j	m.05r5c	m.07y_7	m.03qlv7	m.03mt9v	m.02dlh2	m.018vs	m.0jtg0	
+geography.river.basin_countries	161
+m.07twz	m.0165v	m.09c7w0	m.02k54	m.04g61	m.06s_2	m.06v36	m.016zwt	m.06mkj	m.015qh	m.0d0vqn	m.05cc1	m.06srk	m.05cgv	m.01p1v	m.05rznz	m.0694j	m.02jx1	m.04hhv	m.036b_	m.0164v	m.0h3y	m.03548	m.01nln	m.06tw8	m.01pj7	m.03rt9	m.0164b	m.0jgd	m.01p8s	m.05b4w	m.04hqz	m.077qn	m.02x21	m.0jgx	m.02wt0	m.02k1b	m.06mzp	m.04wlh	m.07f5x	m.05v10	m.034m8	m.01ls2	m.02kcz	m.0hg5	m.07t_x	m.015fr	m.04hzj	m.0163v	m.03676	m.0154j	m.06nnj	m.02vzc	m.01ppq	m.05r4w	m.04fh3	m.04w4s	m.07dvs	m.0jhd	m.03gj2	m.01mjq	m.0f8l9c	m.0162b	m.05qkp	m.0hdx8	m.059j2	m.0j4b	m.04xn_	m.06tgw	m.02dn04	m.07dv8	m.03gyl	m.03h64	m.06w92	m.01p1b	m.03spz	m.088q4	m.01znc_	m.04tr1	m.09pmkv	m.05bmq	m.088xp	m.05qhw	m.04sj3	m.05sb1	m.05kkh	m.0k6nt	m.03h2c	m.01xbgx	m.06bnz	m.06sff	m.02khs	m.0j5g9	m.06npd	m.047lj	m.0h7x	m.07fj_	m.016wzw	m.0345_	m.03shp	m.07ssc	m.0d05w3	m.01tr1	m.05c74	m.0hzlz	m.06qd3	m.019pcs	m.088vb	m.0fv4v	m.07f1x	m.035dk	m.0bjv6	m.04wgh	m.06dfg	m.06t8v	m.0345h	m.04v09	m.05bcl	m.07tp2	m.03rj0	m.02k8k	m.056vv	m.01rxw	m.011jw	m.01nyl	m.06vbd	m.035qy	m.04g5k	m.04hvw	m.04j53	m.0d05q4	m.0jdd	m.0jdx	m.06q1r	m.04gzd	m.07dzf	m.07ylj	m.01c4pv	m.0chghy	m.01699	m.04w8f	m.03rk0	m.07bxhl	m.07t21	m.0b90_r	m.0166b	m.03__y	m.0d060g	m.0166v	m.03rjj	m.0jt3tjf	m.0169t	m.02kmm	m.019rg5	m.0d0kn	m.05b7q	m.01crd5	m.03ryn	m.06c1y	m.03_3d	m.04vjh	
+olympics.olympic_athlete.country..olympics.olympic_athlete_affiliation.olympics	28
+m.0swbd	m.06sks6	m.018ljb	m.0swff	m.0blg2	m.0l98s	m.0l998	m.018qb_	m.0l6m5	m.0l6ny	m.0lbbj	m.018ctl	m.09n48	m.014j6k	m.0jdk_	m.0sxrz	m.016r9z	m.0kbws	m.0124ld	m.0ldqf	m.0jkvj	m.0d4j2	m.09x3r	m.0kbvb	m.0l6vl	m.0l6mp	m.0jhn7	m.0kbvv	
+music.musical_group.member..music.group_membership.role	77
+m.03m5k	m.07_l6	m.0j862	m.0g2dz	m.047bl	m.036tl_	m.01xqw	m.02rlwt	m.013y1f	m.06jvx	m.0l14j_	m.07kc_	m.050rj	m.01zzbp	m.06ncr	m.02sgy	m.01v1d8	m.042v_gx	m.0xzly	m.07brj	m.03qjg	m.01rhl	m.02_7fj	m.018j2	m.05148p4	m.0dwsp	m.051hrr	m.01c3q	m.01s0ps	m.023zh4	m.0151b0	m.07gql	m.0342h	m.04rzd	m.01kcd	m.0bm02	m.026t6	m.02hnl	m.0dq630k	m.01wy6	m.085jw	m.0l14md	m.0j871	m.06bxc	m.01n4_1	m.0l14qv	m.01k6_b	m.05kms	m.0mkg	m.014k30	m.0192l	m.0859_	m.015lz1	m.0dwtp	m.07c6l	m.01vdm0	m.07xzm	m.0dwt5	m.084xv6	m.0j7xf	m.03_vpw	m.011k_j	m.02fsn	m.03bx0bm	m.0l1589	m.0319l	m.037c9s	m.02857hd	m.03q5t	m.07m2y	m.05r5c	m.07y_7	m.03qlv7	m.03mt9v	m.02dlh2	m.018vs	m.0jtg0	
+cvg.computer_videogame.gameplay_modes	3
+m.0pdbb	m.01z747	m.02hjn4	
+education.educational_institution.school_type	45
+m.01rs62	m.0fjrb	m.01ffs9	m.01hlpq	m.03r55	m.01jlsn	m.047vtw	m.0921h6	m.031pt1	m.04399	m.01_srz	m.025tjcb	m.08yh93	m.02wk69	m.0m4mb	m.07tf8	m.01y64	m.02ky346	m.02ctrh	m.02dk5q	m.079h0	m.072tfh	m.05pcjw	m.01vcqk	m.02p1gx1	m.068bs	m.01_9fk	m.057787	m.02p0qmm	m.02gq9y	m.0bpgx	m.01yslh	m.01qm7	m.05jxkf	m.01j4jl	m.04qbv	m.0534g	m.01yzk8	m.01ft5b	m.014mjc	m.0bwd5	m.027wyv	m.06cs1	m.01rs41	m.047951	
+olympics.olympic_athlete.medals_won..olympics.olympic_medal_honor.medal	3
+m.02lpp7	m.02lq5w	m.02lq67	
+olympics.olympic_athlete.country..olympics.olympic_athlete_affiliation.country	116
+m.07twz	m.09c7w0	m.04g61	m.06t2t	m.06mkj	m.015qh	m.026xwdk	m.05cgv	m.01p1v	m.019pcs	m.0d05w3	m.01mk6	m.0h3y	m.03548	m.01nln	m.06tw8	m.01znc_	m.03rt9	m.077qn	m.0jgx	m.0jgd	m.06mzp	m.07f5x	m.01ls2	m.0d0vqn	m.0hg5	m.07t_x	m.0h8d	m.05vz3zq	m.015fr	m.04hzj	m.04wgh	m.0154j	m.06nnj	m.02vzc	m.01ppq	m.02k1b	m.05r4w	m.03_r3	m.04w4s	m.04ty8	m.07dvs	m.0jhd	m.03gj2	m.01mjq	m.0f8l9c	m.0162v	m.059j2	m.0j4b	m.03h64	m.02kmm	m.03spz	m.088q4	m.01pj7	m.09pmkv	m.05bmq	m.05qhw	m.05sb1	m.0k6nt	m.03h2c	m.06bnz	m.02khs	m.06npd	m.047lj	m.02k54	m.07hj4m	m.0l3h	m.016wzw	m.0345_	m.03shp	m.07ssc	m.0j11	m.0hzlz	m.07ybd	m.06qd3	m.0h7x	m.01z215	m.07f1x	m.035dk	m.0163v	m.06t8v	m.0345h	m.06f32	m.0697s	m.07tp2	m.03rj0	m.06m_5	m.07fj_	m.06vbd	m.035qy	m.0d04z6	m.0ctw_b	m.0j1z8	m.0d05q4	m.0jdd	m.0jdx	m.04gzd	m.05b4w	m.01c4pv	m.0chghy	m.04w8f	m.03rk0	m.07t21	m.0b90_r	m.09lxtg	m.03__y	m.0d060g	m.03rjj	m.0jt3tjf	m.019rg5	m.0d0kn	m.05b7q	m.01crd5	m.03ryn	m.06c1y	m.03_3d	
+olympics.olympic_athlete.country..olympics.olympic_athlete_affiliation.sport	53
+m.03krj	m.096f8	m.07jjt	m.09_b4	m.0bynt	m.01b57x	m.02vx4	m.03tmr	m.07bs0	m.09f6b	m.07_53	m.02y8z	m.02y74	m.01yfj	m.03fyrh	m.06z68	m.0dwxr	m.06f41	m.01cgz	m.06zgc	m.035d1m	m.0194d	m.0152n0	m.07gyv	m.0w0d	m.0d1t3	m.01z27	m.02_5h	m.03_8r	m.0397w	m.0d1tm	m.01sgl	m.019tzd	m.01gqfm	m.09w1n	m.02bkg	m.06z6r	m.019w9j	m.09qgm	m.09_bl	m.06wrt	m.07jbh	m.03hr1p	m.0849l	m.0486tv	m.018jz	m.0crlz	m.071t0	m.018w8	m.01hp22	m.03rbzn	m.07rlg	m.01dys	
+base.schemastaging.athlete_extra.salary..base.schemastaging.athlete_salary.currency	11
+m.0glfp	m.09c7w0	m.09nqf	m.0485n	m.01j9nc	m.015f1d	m.01nv4h	m.01rmbs	m.02l6h	m.088n7	m.03385m	
+people.person.education..education.education.degree	45
+m.06bvhh	m.03p192	m.027np7	m.090fz4	m.013zdg	m.02pvqx	m.03bwzr4	m.0804kq	m.04lckq	m.023tbs	m.07sldb	m.01_scg	m.01rr_d	m.047dfh4	m.0304n4	m.02_xgp2	m.025tjcb	m.03hg3j	m.02cqwf	m.02h4rq6	m.0143fl	m.079h0	m.05zk8wd	m.071tyz	m.068bs	m.02m4yg	m.0266qtf	m.014mlp	m.07s6fsf	m.02cq61	m.019v9k	m.0bpgx	m.01yslh	m.04zx3q1	m.03xfm7	m.07yvrl	m.01gkg3	m.0bkj86	m.07kf68s	m.02mjs7	m.0ch34z	m.01ysy9	m.03mkk4	m.016t_3	m.027f2w	
+basketball.basketball_player.position_s	10
+m.03558l	m.0355dz	m.0ctt4z	m.05ch8k4	m.05ch8k9	m.02_ssl	m.03ww62	m.01pv51	m.0619m3	m.02sf_r	
+government.politician.government_positions_held..government.government_position_held.basic_title	45
+m.02bms	m.01g14w	m.09cht	m.0p5vf	m.0377k9	m.01xp_h	m.01fch0	m.01t_55	m.01dz7z	m.01s1rf	m.01f9sl	m.072hn9	m.01gkgk	m.01zq91	m.07f1_w	m.0fj45	m.01nrc5	m.0btx7	m.01j950	m.0264p5v	m.0fkzq	m.01fz4f	m.07164	m.0dq3c	m.060bp	m.0hyf1	m.060c4	m.09d6p2	m.0fkvn	m.03hm3	m.03ch_zv	m.01n84j	m.09v97h	m.02079p	m.0pqc5	m.03w9bnr	m.01p1jv	m.0189kt	m.04syw	m.03tzmr	m.0fkx3	m.02632hj	m.026b7s	m.01m4k8	m.02rbq	
+film.film.estimated_budget..measurement_unit.dated_money_value.currency	25
+m.02nb4kq	m.02gsvk	m.02f32g	m.014z03	m.088n7	m.0mcb5	m.01_c9q	m.0glfp	m.0298sr	m.02l6h	m.01rn1k	m.0m39t	m.0485n	m.01j9nc	m.070f6j	m.0hn4_	m.01hy_q	m.0ptk_	m.09nqf	m.025rymp	m.01nv4h	m.01t0lt	m.0kz1h	m.039y9z	m.03385m	
+base.schemastaging.organization_extra.phone_number..base.schemastaging.phone_sandbox.service_language	62
+m.02hwhyv	m.06zvd	m.0653m	m.0jfsq	m.01_5gm	m.05zjd	m.0688f	m.064_8sq	m.02ztjwg	m.01c7y	m.04t3_	m.04mz4	m.02s2l	m.06zvx	m.02h40lc	m.03hkp	m.0dds9	m.01bkv	m.06mp7	m.0k1b	m.0295r	m.01gp_d	m.0bwcb	m.07zrf	m.06nm1	m.0cjk9	m.097kp	m.02002f	m.03115z	m.04306rv	m.0y1mh	m.0c_v2	m.02bv9	m.05f_3	m.0349s	m.06rt9	m.01jb8r	m.03k50	m.06b_j	m.07qv_	m.01gmkg	m.0g1jw	m.02zj58	m.02hxcvy	m.01wgr	m.02bjrlw	m.06ctk	m.0x82	m.0k7zj	m.03x42	m.0459q4	m.05qqm	m.03_9r	m.0jzc	m.0nj_l	m.014vj2	m.01r2l	m.012w70	m.07c9s	m.02hxc3j	m.0v0s	m.02hwyss	
+olympics.olympic_event_competition.medalists..olympics.olympic_medal_honor.medal	3
+m.02lpp7	m.02lq5w	m.02lq67	
+religion.religious_leadership_jurisdiction.organisation	4
+m.01spm	m.02vxy_	m.02rsw	m.0kwr	
+olympics.olympic_athlete.medals_won..olympics.olympic_medal_honor.country	99
+m.09c7w0	m.02k54	m.04g61	m.06t2t	m.06mkj	m.015qh	m.0d0vqn	m.05cgv	m.01p1v	m.0d05w3	m.01mk6	m.0h3y	m.01nln	m.06tw8	m.01znc_	m.03rt9	m.0jgd	m.01p8s	m.077qn	m.0jgx	m.02k1b	m.06mzp	m.04wlh	m.07f5x	m.01ls2	m.01crd5	m.07t_x	m.05vz3zq	m.015fr	m.04wgh	m.0154j	m.06nnj	m.02vzc	m.05r4w	m.03_r3	m.07dvs	m.0jhd	m.03gj2	m.01mjq	m.0f8l9c	m.034cm	m.0162v	m.082fr	m.059j2	m.03f2w	m.03h64	m.087vz	m.04vs9	m.088q4	m.01pj7	m.09pmkv	m.05bmq	m.05qhw	m.0k6nt	m.06bnz	m.06npd	m.047lj	m.0h7x	m.07hj4m	m.03shp	m.07ssc	m.0hzlz	m.07ybd	m.06qd3	m.019pcs	m.07f1x	m.035dk	m.0163v	m.06t8v	m.0345h	m.06f32	m.0697s	m.07tp2	m.07fj_	m.06vbd	m.035qy	m.0d04z6	m.0ctw_b	m.04j53	m.0jdd	m.04gzd	m.05b4w	m.0chghy	m.04w8f	m.03rk0	m.07t21	m.0b90_r	m.09lxtg	m.03__y	m.0d060g	m.03rjj	m.0jt3tjf	m.019rg5	m.0d0kn	m.05b7q	m.0169t	m.03ryn	m.06c1y	m.03_3d	
+user.coco.science.concepts_theories.parent_concept	21
+m.0p8wy	m.0382k	m.011w45	m.0qml0	m.04rjg	m.02p0qx9	m.0mp6	m.01lgy	m.05dkb	m.0g97h	m.07cj3	m.07v7w	m.0c964	m.0239v0	m.0m9_k	m.02jnw	m.032v1	m.069z2	m.025x7g_	m.01924	m.02wt_x	
+music.album.album_content_type	4
+m.0l14gg	m.06vw6v	m.0l14g2	m.02jbfk	
+award.ranked_item.appears_in_ranked_lists..award.ranking.list	22
+m.04k4rt	m.026cl_m	m.01cj_r	m.02mfld	m.06lq9p	m.0gjt3_	m.06lq4p	m.036dh5	m.026pys	m.03tgdc	m.05glt	m.06lq6v	m.09g7thr	m.035gpl	m.09gmwc7	m.07f_yp	m.06hbc1	m.06lq8_	m.08xz6s	m.02wwyxj	m.01pd60	m.027v2mn	
+computer.software.license	25
+m.0drrkg	m.03h3jbp	m.09nv6m	m.02h46p	m.02wtqd4	m.02w1yc	m.0gs4f9	m.032db	m.026516v	m.07s5b67	m.06tw1l	m.0d6s7	m.03sc8	m.06vw1	m.037cm	m.026ggh	m.04ls4n	m.0x7m	m.034jd	m.067xd	m.04vpm	m.03f6d	m.018s4	m.012k_9	m.05smz	
+education.educational_institution.colors	41
+m.03wkwg	m.09k16d	m.09gg3	m.03xr7y	m.03y3t	m.0680m7	m.0271xjb	m.0694jm	m.013c5t	m.0ckc5	m.04d18d	m.06bmfg	m.02rnmb	m.01jnf1	m.01fklc	m.03jn2m	m.03hzcs	m.06kqt3	m.05t_yt	m.06fvc	m.0jc_p	m.04f62z	m.0dvf4w	m.01l849	m.04fb9y	m.03vtbc	m.088fh	m.0273q0	m.019sc	m.01tt1	m.018zjs	m.01g5v	m.038hg	m.036k5h	m.09ggk	m.04f6rz	m.084rsc	m.083jv	m.09q2t	m.09bz0	m.04mkbj	
+people.person.languages	79
+m.02hwhyv	m.09q16b	m.0653m	m.02hwrpy	m.01c7y	m.0v0s	m.055qm	m.01gp_d	m.02bv9	m.0688f	m.064_8sq	m.02ztjwg	m.09bnf	m.0hlyy	m.012w70	m.0k7zj	m.07ng6	m.012v8	m.04h9h	m.01m69	m.06zvx	m.02hw_03	m.02h40lc	m.03hkp	m.01bkv	m.01307m	m.05qqm	m.0121sr	m.07d1d	m.02j4bk	m.019vzt	m.07zrf	m.0ycv	m.06nm1	m.03_9r	m.097kp	m.083tk	m.03115z	m.04306rv	m.0y1mh	m.025rvv7	m.0c_v2	m.05zjd	m.01lqm	m.09s02	m.05f_3	m.0999q	m.0349s	m.01wgr	m.0880p	m.0k0sb	m.032f6	m.01q5d9	m.03k50	m.06b_j	m.0t_2	m.06x06	m.0k0sv	m.02c_bf	m.02hxcvy	m.04j9zqq	m.02bjrlw	m.0g5tm	m.03x42	m.0x82	m.011h3p	m.0fxzlv	m.0459q4	m.06mp7	m.0cjk9	m.0jzc	m.01vdg1	m.01r2l	m.0ddb5	m.0g1jw	m.07c9s	m.02hxc3j	m.0295r	m.02jcw	
+user.tsegaran.random.taxonomy_subject.entry..user.tsegaran.random.taxonomy_entry.taxonomy	2
+m.02dxz	m.04n6k	
+book.written_work.original_language	46
+m.05p1x	m.02hwhyv	m.02bv9	m.064_8sq	m.0hc9z	m.0ddb5	m.05p2d	m.02h40lc	m.03hkp	m.0x2wv	m.02dzsc	m.05qqm	m.0295r	m.0h407	m.01gp_d	m.03yb_1	m.01nf5z	m.06nm1	m.070zw	m.083tk	m.03115z	m.04306rv	m.05zjd	m.04h9h	m.05f_3	m.0349s	m.01wgr	m.0880p	m.06rt9	m.0k0sb	m.032f6	m.02bjrlw	m.06b_j	m.0t_2	m.01gmkg	m.06x06	m.07zrf	m.06mp7	m.01648r	m.01307m	m.03_9r	m.0jzc	m.01vdg1	m.01r2l	m.04r4sm	m.02hwyss	
+government.governmental_jurisdiction.governing_officials..government.government_position_held.basic_title	42
+m.02bms	m.01g14w	m.01j950	m.0p5vf	m.0377k9	m.01xp_h	m.01t_55	m.01fch0	m.01f9sl	m.03ch_zv	m.01gkgk	m.03w9bnr	m.01k4ps	m.0fj45	m.01nrc5	m.0btx7	m.0cq0r_	m.0264p5v	m.0fkzq	m.01fz4f	m.0dq3c	m.060bp	m.0hyf1	m.060c4	m.09d6p2	m.05pd99q	m.0fkvn	m.019wcm	m.03hm3	m.01n84j	m.01zws4	m.09v97h	m.02079p	m.0pqc5	m.01zq91	m.027qb1	m.0189kt	m.04syw	m.03tzmr	m.0fkx3	m.026b7s	m.02rbq	
+baseball.baseball_player.position_s	17
+m.02s7tr	m.02hyt6	m.049k4w	m.02k9vy	m.02sg4b	m.02sddg	m.01z9v6	m.028c_8	m.01sdzg	m.02jjh8	m.01yvvn	m.02rsl1	m.017drs	m.02dwn9	m.02lyr4	m.02wszf	m.02dwpf	
+fictional_universe.fictional_character.gender	2
+m.05zppz	m.02zsn	
+geography.mountain.mountain_type	15
+m.01v8rm	m.0c3c0	m.024cl	m.02qwhnb	m.03t7h0	m.015kp7	m.016ds5	m.044bs7	m.07_9_	m.07v8qk	m.02_ywd	m.076gkp	m.04hgv	m.0280g0l	m.04zwbj	
+protected_sites.listed_site.designation_as_natural_or_cultural_site..protected_sites.natural_or_cultural_site_listing.designation	3
+m.0h52w	m.0245zn	m.0c7g7	
+base.schemastaging.organization_extra.phone_number..base.schemastaging.phone_sandbox.contact_category	4
+m.03232	m.014dgf	m.03w5xm	m.01z9bb	
+astronomy.astronomical_discovery.discovery_organization	18
+m.03bgdg	m.02994w	m.02qy_1m	m.02wwpz	m.0kyyk	m.03_wbs	m.069swr	m.0b0m2	m.043dn3	m.02wssp	m.017p2w	m.0499vx	m.02fc4t	m.0b334v	m.02th4_	m.02vj9q	m.01v5gn	m.02wqvb	
+sports.sports_team.colors	30
+m.03wkwg	m.040hmh	m.09gg3	m.0680m7	m.0694jm	m.099fz	m.04d18d	m.06bmfg	m.02rnmb	m.01fklc	m.03jn2m	m.06kqt3	m.06fvc	m.036k5h	m.02vtg3	m.01l849	m.0dstvf	m.068sh4	m.03vtbc	m.09ggk	m.0511kf	m.019sc	m.01g5v	m.038hg	m.0jc_p	m.088fh	m.037vk	m.083jv	m.09bz0	m.04mkbj	
+computer.software.software_genre	151
+m.0k23c	m.01r257	m.02cf9	m.076dn	m.02wvbrv	m.0h2vrf	m.0bx8_	m.04wrr6	m.026k30	m.02yhc	m.012t0g	m.02bc6	m.05gj6g	m.01p37y	m.07521j	m.0bs6x	m.0j9jn	m.0164kt	m.020fgk	m.02016	m.039w_d	m.02y3rj	m.04fzr5d	m.03my8d	m.07yf2	m.099f0	m.03tpc9	m.05tc_1	m.02htf	m.06dr_4	m.082hp	m.04rjg	m.0b9qp4	m.050ls	m.02wtqd4	m.07zcnp	m.0gtj5f	m.035bv3	m.0f6t5	m.045rk	m.082vy	m.015552	m.0cgk3	m.027zrtr	m.03ylk	m.080jnxw	m.012t1t	m.02w7h	m.081gf	m.05ft8q	m.04rlf	m.0dzxs	m.07gcf	m.0g96k	m.0mkz	m.022x_	m.03xqs9	m.07z4p	m.01xzx	m.0db4y	m.02p35fb	m.01hl4j	m.05wkw	m.0fj8g	m.07gnl6	m.01s560	m.0g41y	m.076tfwq	m.07vsb9	m.05_p2	m.0jzgd	m.01b99v	m.021w4h	m.0541p	m.0hwf2	m.02kq0q	m.026y05	m.0n5rs	m.016wb4	m.0dbw4	m.04d4n	m.01hyh_	m.01ld0	m.02qmbb_	m.0blvg	m.0qmxf	m.06wxc	m.06mnr	m.0600q	m.03821	m.01qb67	m.022md	m.07c52	m.07zhjx	m.0414krx	m.0p8rg	m.082dv	m.0c4cx	m.04mj2	m.0h94y36	m.01h1_2	m.05khh	m.013sld	m.01t4tp	m.04gg9_n	m.083hh	m.02nf_	m.0f0zk	m.03ltmt	m.015_9h	m.05r20	m.060b5	m.07nggd	m.01np0n	m.02_7vm	m.01ggvw	m.01c62	m.0279m	m.0f5nz	m.075x5v	m.0ky_d	m.0582c	m.01phdl	m.0fj7z	m.01mf0	m.0cnzh	m.01r0b	m.02jv7	m.021sj1	m.02_9yy	m.0161z0	m.0g0hj	m.05z07s	m.01mzw	m.017xgd	m.0kjbp	m.05x35	m.01ql51	m.05p812	m.02chm	m.0hcr	m.05xkk1	m.0d4kl	m.049y27	m.03w9g0f	m.03yy97	m.0bk0p	m.079mz	m.02p5w	m.01c66g	m.0fr1t	
+location.country.form_of_government	55
+m.0py4y	m.09blgz	m.025tbxf	m.014j8_	m.0539_k	m.01_fh8	m.025s5c_	m.0k8cf	m.012l38	m.018wl5	m.07v2k4	m.06cx9	m.0hqc2	m.07mq4k	m.01q20	m.07hcw	m.02tz3y	m.02c7wl	m.0hg_4	m.04pnf6	m.01dstw	m.01fpfn	m.026wp	m.0c0td	m.04szc	m.02hbt	m.013139	m.014zf	m.01fgl7	m.0174vq	m.01k323	m.01dw03	m.09dcy	m.01d9r3	m.01m4w_	m.01gt0n	m.012qkq	m.05l8f	m.01fkst	m.0d8tn	m.0glnsx	m.0drnm	m.04m06	m.04mlzp	m.01frd1	m.0t4p	m.01mqqr	m.04_6ps	m.01p8vc	m.0c9rw5	m.01ff0h	m.07lg6	m.01h2vd	m.01ly4h	m.01cpws	
+architecture.structure.architectural_style	45
+m.08tjm1	m.0cfs8	m.01g_xm	m.01yhg8	m.028tnd	m.026y56	m.0bdgp	m.0cjfy	m.05xh2	m.0dvg9	m.096jl	m.0pybl	m.01sqnx	m.0f48p	m.079cl	m.0dqj19	m.01yjfd	m.05095	m.05rw9z	m.01tv5c	m.01pbyk	m.0g6pl	m.01vrkm	m.01t8vq	m.03bgvq	m.04p_0t	m.0pbzd	m.029phs	m.01wb7	m.0dvgt	m.03ty65	m.03cz2	m.0tyq	m.0190t4	m.07wy0j	m.03tzh9	m.0f34z	m.06hsk	m.01k8zx	m.0f447	m.0lphv	m.0dvh9	m.07xnmw	m.0ckmfz	m.02t7wc	
+education.university.domestic_tuition..measurement_unit.dated_money_value.currency	34
+m.02nb4kq	m.02fbly	m.02gsvk	m.02f32g	m.04s1qh	m.04dq0w	m.01rmbs	m.088n7	m.01_c9q	m.01bglq	m.015f1d	m.02l6h	m.01rn1k	m.03nh77	m.0gft5	m.01h5bw	m.0485n	m.01j9nc	m.0203sy	m.0172zs	m.0hn4_	m.02svsf	m.01hy_q	m.070f6j	m.0ptk_	m.09nqf	m.01nv4h	m.01pmlx	m.01t0lt	m.0kz1h	m.0h5dw	m.01_h4b	m.02zsyq	m.05yxpb	
+sports.sports_team.sport	13
+m.0z74	m.03krj	m.05tfch	m.0ltv	m.06br8	m.018jz	m.02vx4	m.07_53	m.018w8	m.03tmr	m.019rjn	m.02y74	m.0jm_	
+base.schemastaging.person_extra.net_worth..measurement_unit.dated_money_value.currency	6
+m.070f6j	m.09nqf	m.0485n	m.025smh5	m.01nv4h	m.02l6h	
+business.business_operation.revenue..measurement_unit.dated_money_value.currency	9
+m.070f6j	m.0ptk_	m.0kz1h	m.09nqf	m.01nv4h	m.02spfd	m.02l6h	m.088n7	m.01rn1k	
+government.political_district.representatives..government.government_position_held.basic_title	9
+m.0189kt	m.060c4	m.04syw	m.0fkvn	m.0p5vf	m.01gkgk	m.02079p	m.0pqc5	m.02rbq	
+film.actor.film..film.performance.special_performance_type	5
+m.014kbl	m.01kyvx	m.01pb34	m.023dwm	m.02t8yb	
+geography.geographical_feature.category	51
+m.0l_br	m.01wr8	m.01pvk	m.0kh77	m.07_9_	m.0hnyf	m.018vpr	m.04wxr	m.01ty0n	m.02289q	m.03hvmn	m.06cnp	m.080byt0	m.015kp7	m.06npx	m.0by0z	m.02r3_7_	m.012jj1	m.03k5cs	m.05sm1	m.0cs14	m.093shy	m.01gmrj	m.01qr50	m.076gkp	m.0184rb	m.04_5sg	m.016983	m.01cbzq	m.0pvlz	m.0284w	m.0l154	m.03s0c	m.0kxk	m.04ggh49	m.04h4w	m.09d_r	m.024cl	m.0f45l	m.031tht	m.05kq4	m.0b3yr	m.0464bv	m.02mwzg	m.05sl2	m.07yxk	m.0g0dy	m.03whr_d	m.038jz	m.0kh8w	m.018zp5	
+computer.software.languages_used	52
+m.03cjm6	m.0jgqg	m.02wz_qj	m.05y49	m.0fp_1y	m.04mdr	m.0n6y	m.03j_q	m.06ff5	m.02h40lc	m.0gdzk	m.075st	m.02r0tn1	m.02mm3	m.060kv	m.02plr7q	m.015tjh	m.011y70	m.02tgs	m.0fhw1	m.01dpgv	m.01kbt7	m.03g20	m.058b6	m.02y475	m.02y1lf	m.04kyw	m.0p8g	m.07sbkfb	m.01z1nj	m.0268yl	m.0879f	m.07657k	m.05zrn	m.05q31	m.01t6b	m.0chpd	m.01tlw	m.02_94	m.02ky6z	m.02p97	m.09wmx	m.02yjg_	m.01p6ck	m.0140vl	m.07fw2	m.03mk2z	m.05z1_	m.08745	m.03_9r	m.0n0_h	m.06zrb	
+tv.tv_actor.starring_roles..tv.regular_tv_appearance.special_performance_type	4
+m.014kbl	m.01kyvx	m.01pb34	m.014ktf	
+visual_art.visual_artist.art_forms	19
+m.039jq	m.0bp7w	m.04spm	m.05qdh	m.04rd7	m.012_1b	m.01zkhz	m.0gc80	m.05wkw	m.02_3k	m.0b07p4	m.012h24	m.0f1tz	m.02csf	m.06msq	m.012z_m	m.01bsxb	m.0hcr	m.0c5mq	
+music.group_member.membership..music.group_membership.role	48
+m.03m5k	m.0dwtp	m.011k_j	m.013y1f	m.06jvx	m.0l14j_	m.0xzly	m.01xqw	m.02sgy	m.01v1d8	m.042v_gx	m.07brj	m.03qjg	m.0bm02	m.02t89	m.05148p4	m.03bx0bm	m.051hrr	m.02857hd	m.0j862	m.0151b0	m.07gql	m.0342h	m.04rzd	m.03_vpw	m.02hnl	m.0dwr4	m.015lz1	m.0l14md	m.06bxc	m.0l14qv	m.01k6_b	m.0mkg	m.03q5t	m.07c6l	m.07xzm	m.026t6	m.02pprs	m.02fsn	m.0dwsp	m.037c9s	m.0g2dz	m.06ncr	m.05r5c	m.07y_7	m.03qlv7	m.018vs	m.0jtg0	
+government.political_district.representatives..government.government_position_held.governmental_body	27
+m.03mkh	m.01p2m5	m.03h8hl	m.02s6tx	m.02m0v	m.0h6dy	m.03ljr	m.04z288	m.0l_j_	m.01s13s	m.02jjnf	m.02smk2	m.048lqh	m.01rqxn	m.0x2sv	m.0krj7	m.0d6bt8	m.02p5vzk	m.021wn5	m.07z3s7	m.07dy5n	m.0b3wk	m.01fw_b	m.014clc	m.09k5k	m.0bqtq3	m.07t58	
+business.business_operation.operating_income..measurement_unit.dated_money_value.currency	5
+m.09nqf	m.01rn1k	m.02l6h	m.088n7	m.01nv4h	
+base.saints.saint.venerated_in	26
+m.01spm	m.02rsw	m.01cjt	m.0kwr	m.05sfs	m.01pg_n	m.04y29	m.02dfv	m.0c8wxp	m.02rxj	m.05pbd	m.01fgks	m.02l9d5	m.0n2g	m.021_vk	m.01hd99	m.0j96s	m.01lp8	m.01nngf	m.0b06q	m.03_gx	m.04pk9	m.01yjgy	m.024gq	m.0flw86	m.0blk0	
+baseball.baseball_player.batting_stats..baseball.batting_statistics.season	3
+m.0285r5d	m.04n36qk	m.03c6sl9	
+organization.organization.legal_structure	10
+m.02mxx4	m.030rs3	m.023k2	m.02567r7	m.01ghqd	m.0m98y	m.0259tnd	m.01mxzw	m.01prdc	m.01cwdx	
+tv.tv_program.regular_cast..tv.regular_tv_appearance.special_performance_type	5
+m.014kbl	m.01kyvx	m.01pb34	m.014ktf	m.023dwm	
+organization.endowed_organization.endowment..measurement_unit.dated_money_value.currency	22
+m.02nb4kq	m.02f32g	m.0mcb5	m.088n7	m.02z8jt	m.01_c9q	m.015f1d	m.02l6h	m.01rn1k	m.01h5bw	m.0485n	m.01j9nc	m.070f6j	m.01hy_q	m.0ptk_	m.09nqf	m.01nv4h	m.01t0lt	m.0kz1h	m.0h5dw	m.01_h4b	m.03385m	
+organization.organization.phone_number..common.phone_number.category	8
+m.02xqq	m.014dgf	m.07klh	m.03w5xm	m.024j7z	m.01z9bb	m.01r28v	m.02p0qmm	
+olympics.olympic_event_competition.olympic_games_contested	8
+m.0kbvb	m.06sks6	m.018ctl	m.0jhn7	m.0jdk_	m.0c_tl	m.0f3xb	m.0kbws	
+olympics.olympic_event_competition.medalists..olympics.olympic_medal_honor.olympics	17
+m.0swbd	m.0kbvb	m.0l6vl	m.06sks6	m.0l6m5	m.0l6ny	m.0lbbj	m.02hk0k	m.0jhn7	m.0l98s	m.0jdk_	m.0c_tl	m.018ctl	m.0f3xb	m.0kbws	m.018wrk	m.0lbd9	
+medicine.drug.legal_status	3
+m.01_7r6	m.01b86_	m.0q593	
+business.business_operation.assets..measurement_unit.dated_money_value.currency	2
+m.09nqf	m.02l6h	
+medicine.disease.medical_specialties	39
+m.05djc	m.0bk8v	m.01nd8	m.05jd4	m.05wgy	m.07w7m	m.02gzlx	m.02h6ngl	m.05qfh	m.0dxdt	m.05_h7	m.02v0_d	m.0fkdq	m.043kc_	m.0dxfq	m.027lz1	m.05nd3	m.03vwg	m.02smd8	m.0hl17	m.05vtw	m.01x7v6	m.03tp4	m.0400g4	m.01d3n8	m.02pbt7m	m.02jvq	m.03dcd	m.02cm61	m.0jwpv	m.05h54	m.0h212	m.05b1j	m.080y1	m.03db4m	m.09dwr8	m.0277g	m.0dxf7	m.018rtl	
+baseball.baseball_player.bats	3
+m.03bwzdf	m.02bm_x	m.01r7cb	
+architecture.building.building_function	48
+m.0hhbr	m.0cfs8	m.01b41j	m.0k05r	m.01y8xw	m.0cx45	m.0kcc7	m.05zp8	m.01lq3	m.0g9wjzr	m.01hmml	m.0d5gx	m.0f48p	m.02nvjx	m.0nsv	m.01t_yc	m.01492b	m.018lrm	m.09cmq	m.0py27	m.04ffvn	m.021sj1	m.0grl_	m.02qd_7	m.01czv3	m.0cfkj	m.0c_6z	m.036nz	m.03pty	m.02l7rx	m.05npqn	m.0hpnr	m.01wb7	m.04h8h	m.019cfy	m.05bq6s	m.04_xn	m.05czsy	m.0g2vc	m.02ljgl	m.027x1r	m.0vlys	m.02wc6z	m.0f85g	m.021yby	m.029g_vk	m.0268fgv	m.01l0mw	
+soccer.football_team.league..soccer.football_league_participation.league	52
+m.09nw6c	m.03n_lr	m.01h0cn	m.09gqx	m.04tdqs	m.0c73xm	m.026sh1m	m.0356lc	m.0dlq09	m.073q37	m.0895g9	m.02_3s8	m.0f8216	m.04cz95	m.04hpk1	m.045q93	m.0355pl	m.06h829	m.0bs1n73	m.02k1ql	m.06tvmx	m.0bk6m_	m.0fnkb5	m.0356j2	m.044hzk	m.0c1q0	m.02_tc	m.059m2r	m.03zv9	m.01r3zn	m.09hhfc	m.0682wl	m.044hxl	m.0jfpf	m.037169	m.0fnk7q	m.02p3th8	m.02vmxv	m.0446bd	m.083rn3	m.04r98r	m.075qp1	m.0355r8	m.0355sz	m.056y24	m.02q340	m.02w1w1m	m.07bgdt	m.01pn74	m.0675f4	m.04wpb1	m.067hz4	
+food.ingredient.compatible_with_dietary_restrictions	1
+m.07_hy	
+location.statistical_region.population..measurement_unit.dated_integer.source	18
+m.01r942	m.081_5x	m.04t309	m.0cqy0b	m.04ltdp	m.0d07ph	m.052mtg	m.0264133	m.01_fh	m.01ldz	m.024cb6	m.02h40lc	m.01wfbm	m.04lsf6	m.0j6vrmy	m.01vv5_	m.0bdkbg	m.04bbpz	
+location.country.official_language	150
+m.06zvd	m.0653m	m.01y5t6	m.05zjd	m.064_8sq	m.0k3pq	m.02pdmn	m.020gzz	m.0ddb5	m.0k580	m.033bml	m.06zvx	m.0dds9	m.02hyn1	m.0295r	m.0q4xw	m.06nm1	m.083tk	m.05j08y	m.036zx6	m.097kp	m.0148c4	m.0c_v2	m.0m1k0	m.01lqm	m.05f_3	m.0349s	m.0xrg	m.011ln5	m.0b1g2	m.01h2j_	m.01crf0	m.0k7zj	m.03x42	m.03_9r	m.01y5p2	m.02dhwl	m.02w0r	m.0dc0d	m.01xrrm	m.02mymm	m.03b6bx	m.02nt2n	m.01v0g	m.0hc9z	m.0jg5_	m.04t3_	m.02rgw1	m.071fb	m.04h9h	m.01m69	m.020gs9	m.0lpkj	m.0lldb	m.01gp_d	m.0bwcb	m.02002f	m.03115z	m.04306rv	m.028xxn	m.025rvv7	m.0gndv	m.04x6dm	m.017dsl	m.0880p	m.02hwp0r	m.0nl8g	m.06x8y	m.07qv_	m.02nt27	m.07c9s	m.02hrcqd	m.02hxcvy	m.01648r	m.02ml6p	m.02nstd	m.01r2l	m.02hxc3j	m.036bdq	m.02hwhyv	m.0k4n3	m.02gj5b	m.01_5gm	m.02bv9	m.016rsc	m.01c7y	m.04mz4	m.07zrf	m.0dss2	m.05p2d	m.03hkp	m.0c99n	m.01bkv	m.05qqm	m.06b_j	m.012v8	m.0140qt	m.04d646	m.0fw9xb	m.04hdc	m.0999q	m.01y5q0	m.01y5pl	m.02hwl5z	m.0k0sb	m.032f6	m.02bjrlw	m.02_8gp	m.0361y8	m.01gmkg	m.0k0sv	m.014267	m.01wgr	m.02d12l	m.020h4h	m.020gly	m.02hwyss	m.01hhg	m.0jfsq	m.02ztjwg	m.01bcw_	m.07ng6	m.01y5tq	m.01vp3n	m.06b4d	m.01m3f7	m.02h40lc	m.06mp7	m.0nj_3	m.0h0t4	m.02s2l	m.04t67	m.020gps	m.0y1mh	m.0jfs6	m.020h04	m.01xls2	m.01vky1	m.01jb8r	m.029ld0	m.03k50	m.02hwhqt	m.02cpf0	m.0x82	m.0swlx	m.0cjk9	m.0jzc	m.0nj_l	m.01841n	m.06ctk	
+tv.tv_program.tv_producer..tv.tv_producer_term.producer_type	2
+m.02nzlrk	m.0ckd1	
+base.x2010fifaworldcupsouthafrica.world_cup_participant.world_cup_team..base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position	4
+m.0dgrmp	m.02_j1w	m.02sdk9v	m.02nzb8	
+education.university.local_tuition..measurement_unit.dated_money_value.currency	24
+m.02nb4kq	m.02fbly	m.02f32g	m.04dq0w	m.01rmbs	m.088n7	m.01_c9q	m.01bglq	m.015f1d	m.02l6h	m.01rn1k	m.0485n	m.01j9nc	m.070f6j	m.0172zs	m.0hn4_	m.0ptk_	m.09nqf	m.01nv4h	m.01t0lt	m.0kz1h	m.03nh77	m.01_h4b	m.02zsyq	
+base.schemastaging.organization_extra.phone_number..base.schemastaging.phone_open_times.time_zone	40
+m.0122vw	m.0ch2v5	m.02k8gd	m.0731hn	m.073166	m.02lcqs	m.071qwp	m.096m06	m.02hcv8	m.019zjx	m.02_37z	m.071qnz	m.0k3p	m.07vzqw	m.03plfd	m.02q_y6	m.07vzyb	m.02lctm	m.052vwh	m.04qqww	m.084q5v	m.07311_	m.0730gz	m.026vxv7	m.084q1m	m.0l6n5	m.0731l2	m.02fqwt	m.02llzg	m.071r4p	m.0frmgl	m.063w6x	m.073069	m.0731b5	m.04cqj5	m.0bs_fc	m.02hczc	m.019rdm	m.03bdv	m.071qmv	
+film.film.runtime..film.film_cut.film_release_region	40
+m.05v8c	m.09c7w0	m.05vz3zq	m.01znc_	m.06t2t	m.09pmkv	m.06mkj	m.0d0vqn	m.05qhw	m.02vzc	m.048fz	m.06qd3	m.05r4w	m.06bnz	m.035qy	m.0k6nt	m.0h7h6	m.0d05w3	m.05b4w	m.0chghy	m.01js1	m.03rk0	m.0f8l9c	m.07ssc	m.04jpl	m.0kygv	m.082fr	m.015fr	m.059j2	m.0gk6hn	m.0d060g	m.03rjj	m.06f32	m.05kr_	m.0jgd	m.06mzp	m.0345h	m.03h64	m.03_3d	m.02j9z	
+royalty.chivalric_order_member.belongs_to_order..royalty.chivalric_order_membership.order	23
+m.01vnym	m.01f2y9	m.04g6vq	m.02ns4l	m.01vg_x	m.04qc40	m.01zvcb	m.0bdl5k	m.026pz9s	m.0764k6	m.02q5pd	m.01t7cr	m.01zv6l	m.0jpgc	m.04qc1j	m.020vwy	m.04r56k	m.01w7n7	m.0154m5	m.01407r	m.0154yf	m.04qc6x	m.01y28x	
+baseball.baseball_player.lifetime_batting_statistics..baseball.lifetime_batting_statistics.last_statistics_season	2
+m.04n36qk	m.03c6sl9	
+astronomy.extraterrestrial_location.on_celestial_object	13
+m.07wn0	m.0c31h	m.01dlxf	m.09q84	m.0bt_p	m.04wv_	m.041sd6	m.01g39l	m.09cws	m.09cy8	m.0c3s8	m.0crcf	m.09bcm	
+religion.place_of_worship.type_of_place_of_worship	11
+m.04_xn	m.0cfs8	m.0c_6z	m.0cfkj	m.01wb7	m.0f85g	m.0cx45	m.0173tc	m.0268fgv	m.0423wc	m.042fmw	
+film.film.distributors..film.film_film_distributor_relationship.film_distribution_medium	9
+m.019t97	m.029j_	m.02nxhr	m.07c52	m.0dq6p	m.02nxm3	m.01lxst	m.0735l	m.07z4p	
+food.dish.cuisine	18
+m.042ck	m.09y2k2	m.05pjly	m.06wqv	m.051zk	m.0hz4q	m.038sf	m.01h5q0	m.01ww8y	m.07_19	m.07hx8	m.07hxn	m.01xw9	m.038rz	m.0983v	m.02z3r	m.048vr	m.01tm2f	
+time.day_of_year.calendar_system	3
+m.037d3	m.02008	m.03ts7	
+base.animal_synopses.animal_synopsis.mass..base.qualified_values.qualified_value.unit	6
+m.047dr	m.05t56	m.07ny7	m.01x32j1	m.018lyq	m.024_6	
+base.schemastaging.tv_program_extra.regular_dubbing_performances..base.schemastaging.tv_star_dubbing_performance.language	13
+m.02hwhyv	m.02h40lc	m.05qqm	m.05zjd	m.064_8sq	m.01jb8r	m.02bjrlw	m.06nm1	m.03_9r	m.0jzc	m.07qv_	m.02bv9	m.04306rv	
+book.periodical.language	41
+m.02hwhyv	m.01xrrm	m.06zvd	m.0653m	m.05zjd	m.064_8sq	m.02ztjwg	m.02h40lc	m.03hkp	m.01bkv	m.06mp7	m.0295r	m.01gp_d	m.07zrf	m.01nf5z	m.06nm1	m.097kp	m.01zyb5	m.02hwngs	m.04306rv	m.018f82	m.0c_v2	m.02bv9	m.05f_3	m.0349s	m.0k0sb	m.02bjrlw	m.06b_j	m.0t_2	m.03115z	m.0k0sv	m.01wgr	m.03k50	m.05qqm	m.03_9r	m.0jzc	m.0345h	m.01r2l	m.0g1jw	m.07c9s	m.02hwyss	
+olympics.olympic_participating_country.medals_won..olympics.olympic_medal_honor.medal	3
+m.02lpp7	m.02lq5w	m.02lq67	
+religion.religious_leader.religious_leadership..religion.religious_organization_leadership.role	13
+m.0h41s	m.05mx3n	m.0gnjy	m.03h84x	m.01b7b	m.02r3lgs	m.060c4	m.0jwr9	m.021x7	m.05rd8	m.05xjb	m.028g3	m.0yr4	
+protected_sites.protected_site.iucn_category	2
+m.05gz5	m.02h8nsl	
+organization.non_profit_organization.registered_with..organization.non_profit_registration.registering_agency	1
+m.03z19	
+business.board_member.leader_of..organization.leadership.role	20
+m.027qb1	m.025f94	m.028bd1f	m.01lqvg	m.060c4	m.09d6p2	m.02vk5s1	m.063lz	m.0fkvn	m.0ctgqs	m.0130xz	m.03747v	m.07xl34	m.0377k9	m.01xp_h	m.05172y	m.02611y4	m.05k17c	m.0dq_5	m.05c0jwl	
+tv.tv_producer.programs_produced..tv.tv_producer_term.producer_type	2
+m.02nzlrk	m.0ckd1	
+religion.religious_leader.religious_leadership..religion.religious_organization_leadership.organization	15
+m.0b06q	m.02vxy_	m.01spm	m.04399	m.078vc	m.07xd4	m.01yjgy	m.0kwr	m.0q08w	m.024gq	m.01fgks	m.01pg_n	m.01f52v	m.017t8d	m.01nngf	
+location.statistical_region.gdp_nominal..measurement_unit.dated_money_value.currency	8
+m.070f6j	m.0ptk_	m.09nqf	m.0485n	m.01nv4h	m.02l6h	m.03385m	m.01hy_q	
+geography.lake.lake_type	8
+m.02519_	m.06by7v	m.0l154	m.01v7yx	m.02hlj8	m.01b8ll	m.093shy	m.03hvmn	
+award.hall_of_fame_inductee.hall_of_fame_inductions..award.hall_of_fame_induction.hall_of_fame	7
+m.01b3l	m.0k89p	m.02mbs4	m.0jt2h	m.0qjfl	m.0g2c8	m.03z853	
+business.business_operation.retained_earnings..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+business.business_operation.liabilities..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+internet.top_level_domain.domain_type	4
+m.03xvw1	m.07n99	m.0bwjws9	m.03ypq7	
+location.statistical_region.gdp_nominal_per_capita..measurement_unit.dated_money_value.currency	10
+m.0ptk_	m.09nqf	m.0485n	m.01nv4h	m.015f1d	m.02l6h	m.03385m	m.0kz1h	m.0h5dw	m.01hy_q	
+business.business_operation.current_liabilities..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+business.business_operation.current_assets..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+aviation.aircraft_model.aircraft_type	16
+m.047gq	m.026syz7	m.05zw30k	m.02bl11	m.03f6np	m.018rc1	m.01nh_c	m.018jlw	m.018rqw	m.015_d	m.0245kq	m.077hhl	m.02yjc	m.012twx	m.0dhz0	m.02hvs8r	
+music.composition.musical_key	24
+m.04jyvd	m.06d8td	m.069wvs	m.069vcw	m.06bhsw	m.06fryn	m.069wy0	m.05hcrh	m.06b4m2	m.06hbtm	m.06ldvt	m.069w_t	m.06fc8z	m.026hp2	m.069wwx	m.069wsm	m.069x0l	m.06dyns	m.069wz7	m.063syc	m.06hc2j	m.069w_0	m.06kvkh	m.069wyg	
+film.film.starring..film.performance.special_performance_type	5
+m.014kbl	m.01kyvx	m.01pb34	m.023dwm	m.02t8yb	
+aviation.aircraft_model.engine_type	40
+m.09crcf	m.0q03_	m.04765p	m.04229	m.02qbnx1	m.023w44	m.03p30c	m.074ld1	m.0h48fv	m.0800_	m.07mql	m.07s4h9c	m.02x4tkj	m.05fc3sv	m.07gcfz	m.022c7m	m.0457fh	m.04n7hwl	m.030fq4	m.02_c2t	m.0476br	m.018vbw	m.03c8wg	m.0bmryk	m.07kgr6	m.078hnr	m.031rz5	m.06h11	m.012rxr	m.014yck	m.01mx49	m.01hyml	m.02zx4b	m.028g36	m.06kgf	m.02z6wy	m.0665t	m.080s3m	m.07sc309	m.0h18cd	
+government.political_district.representatives..government.government_position_held.jurisdiction_of_office	30
+m.02_286	m.09c7w0	m.03shp	m.035qy	m.0j1z8	m.01p1v	m.05mph	m.06mzp	m.014tss	m.01hpnh	m.075_t2	m.02jx1	m.01n4w	m.0chghy	m.03gj2	m.0hptm	m.024pcx	m.0f8l9c	m.07ssc	m.07z1m	m.059f4	m.059rby	m.03rjj	m.02jxk	m.0jgd	m.01n7q	m.0j4xg	m.04ly1	m.03h64	m.03gk2	
+government.government_office_or_title.category	15
+m.060bp	m.01zq91	m.060c4	m.0fj45	m.04syw	m.0fkvn	m.02079p	m.0fkx3	m.01n84j	m.01xp_h	m.01fch0	m.02rbq	m.0p5vf	m.0pqc5	m.0dq3c	
+religion.religious_leadership_jurisdiction.size_or_type	1
+m.0dc9p	
+cvg.computer_videogame.uses_game_engine	36
+m.0328kl	m.03ht1z	m.03y4dvt	m.0cs0mg	m.07gr7y	m.0288j4p	m.04kz7m	m.05w1k4	m.02pwwrm	m.0c0127m	m.0358g8	m.07m4sm	m.056c7z	m.078j6_	m.058b6	m.06nmx6	m.061zwy	m.0465q1v	m.04lh6j	m.07786	m.04n8st	m.05pcb45	m.0cggsf	m.01x1z_	m.0ghlfv	m.02qt6tp	m.0dmyvh	m.03c6myz	m.06fbdb	m.061xjs	m.08p9m9	m.04j2b3	m.05ms9	m.023km7	m.03cvkf	m.0g5rfn	
+government.government_office_or_title.office_holders..government.government_position_held.basic_title	19
+m.060bp	m.01dz7z	m.03w9bnr	m.01zq91	m.060c4	m.09d6p2	m.0fj45	m.02rbq	m.04syw	m.02bms	m.0fkvn	m.0p5vf	m.0fkx3	m.0377k9	m.01xp_h	m.01fch0	m.02079p	m.0pqc5	m.0dq3c	
+business.business_operation.cash..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+book.author.school_or_movement	43
+m.0hkjj	m.04y41	m.01f2vp	m.0d5_sg	m.019y_2	m.06www	m.073_6	m.04s0m	m.07vsrl	m.05q74_k	m.0pybl	m.05g9_	m.0378xp	m.0q245	m.01c8sr	m.02m4t	m.0dwly	m.01hl64	m.0nt9	m.0298q	m.0pbzd	m.02_h0	m.09x08	m.039vk	m.0c9zxq	m.0127jb	m.01vrkm	m.08_lx0	m.0q1bl	m.01cd2k	m.01hmnh	m.014nhw	m.0972s	m.0nk1p	m.06n90	m.0190t4	m.05qgc	m.0lnj1	m.07wk3m	m.035r7t	m.01qpc	m.06hsk	m.05wkc	
+organization.organization.organization_type	48
+m.0cv_j	m.01xy6g	m.02qw3t	m.0mzj_	m.04dp32	m.01bs4t	m.0ckys	m.0234y3	m.01tygv	m.013m1	m.0dxvb	m.01cwdx	m.09t4t	m.0drl1t	m.023k2	m.04xk5b	m.03krjh	m.01gq_p	m.07tf8	m.02kysg	m.05_5d	m.0259tnd	m.02jfc	m.097zh	m.0339xs	m.0ky5x	m.07jq_	m.01d1z6	m.018q_c	m.04gny	m.096wp	m.02wv8d8	m.0216nq	m.062kmd	m.01mxzw	m.02mz24	m.02mxx4	m.05jxkf	m.0134hp	m.0565rv	m.01spl4	m.015v6t	m.02p3txp	m.054k0	m.01_jrm	m.06cs1	m.03d430	m.01prdc	
+transportation.bridge.bridge_type	12
+m.051gs3	m.09qhk	m.01v4lt	m.054v66	m.01jnfv	m.0csy8	m.0llrp	m.021gxj	m.01j6f0	m.0157l1	m.054v5h	m.01cxh7	
+location.statistical_region.population_growth_rate..measurement_unit.dated_percentage.source	1
+m.0ndpz08	
+location.statistical_region.gdp_nominal..measurement_unit.dated_money_value.source	3
+m.0d07ph	m.01wfbm	m.0j6r5c6	
+aviation.aircraft_model.unit_cost..measurement_unit.monetary_range.currency	7
+m.09nqf	m.03x7l2	m.01nv4h	m.015f1d	m.02l6h	m.088n7	m.039y9z	
+location.statistical_region.internet_users_percent_population..measurement_unit.dated_percentage.source	1
+m.0ndnhc0	
+location.statistical_region.life_expectancy..measurement_unit.dated_float.source	2
+m.0j6vrmy	m.0kfm57f	
+location.statistical_region.gdp_growth_rate..measurement_unit.dated_percentage.source	1
+m.0k3rwm4	
+location.statistical_region.fertility_rate..measurement_unit.dated_float.source	1
+m.0kfm2nh	
+film.film.distributors..film.film_film_distributor_relationship.region	17
+m.0j1z8	m.03rk0	m.05sb1	m.07ssc	m.09nm_	m.09c7w0	m.04ty8	m.0345h	m.016zwt	m.06m_5	m.0d05w3	m.0162b	m.07bxhl	m.059j2	m.03_3d	m.0d060g	m.06mx8	
+location.statistical_region.gdp_real..measurement_unit.adjusted_money_value.adjustment_currency	1
+m.09nqf	
+location.statistical_region.co2_emissions_per_capita..measurement_unit.dated_metric_ton.source	1
+m.0ndnhbx	
+astronomy.extraterrestrial_location.type_of_planetographic_feature	13
+m.01v8rm	m.06gfxv	m.09d_r	m.03j09r	m.01wr8	m.03f6vh	m.03dy13	m.07_9_	m.038z3r	m.04wxr	m.05sm1	m.07yxk	m.04f0_8	
+music.composition.form	36
+m.01stc4	m.0xv8h	m.01s97y	m.0knl9	m.03t7jm	m.04bqjm	m.0kv42	m.0c5sm	m.029nqc	m.0c12_	m.091_k2	m.0c0yr	m.07bybt	m.01tdct	m.01ssnf	m.0132rr	m.0gck1v	m.0hchp	m.04094m	m.074ft	m.01h5xb	m.01cg2x	m.0197_n	m.02779sw	m.02yb7	m.0cdr_y	m.01b0rq	m.01gl8_	m.05lls	m.0c0y7	m.083yyt	m.0c0xr	m.0c121	m.0197d_	m.0199p1	m.05_nm	
+astronomy.asteroid.spectral_type	9
+m.02m9vc	m.026332	m.02m9z5	m.02m9mj	m.02m9tp	m.02m9zj	m.02m9mx	m.02m9m4	m.01375x	
+travel.travel_destination.how_to_get_here..travel.transportation.mode_of_transportation	13
+m.06d_3	m.07jdr	m.02783lb	m.0dn_w	m.01bjv	m.0ddnl	m.09ct_	m.0cmf2	m.0fr81	m.08jhlb	m.01qng9	m.0k4j	m.02959z	
+base.animal_synopses.animal_synopsis.length..base.qualified_values.qualified_value.unit	6
+m.0jmrm	m.01crvy	m.055v9	m.04sf9	m.024_6	m.03th6	
+base.animal_synopses.animal_synopsis.height..base.qualified_values.qualified_value.unit	5
+m.04sf9	m.024_6	m.03th6	m.01crvy	m.0jmrm	
+music.artist.contribution..music.recording_contribution.performance_role	36
+m.0j862	m.01v1d8	m.013y1f	m.0j7xf	m.06ncr	m.02sgy	m.011k_j	m.042v_gx	m.09lgd	m.05148p4	m.03bx0bm	m.07gql	m.03qlv7	m.01s0ps	m.0j210	m.02dlh2	m.02t_3k	m.0342h	m.0l14jd	m.05229	m.026t6	m.015lz1	m.0l14md	m.0j871	m.06bxc	m.0l14qv	m.05kms	m.07c6l	m.0l14j_	m.018l5l	m.02pprs	m.0d8lm	m.0395lw	m.05r5c	m.07y_7	m.018vs	
+location.statistical_region.gni_in_ppp_dollars..measurement_unit.dated_money_value.source	1
+m.0ndnhcn	
+location.statistical_region.gni_per_capita_in_ppp_dollars..measurement_unit.dated_money_value.source	1
+m.0ndnhc3	
+location.statistical_region.gni_per_capita_in_ppp_dollars..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+base.eating.practicer_of_diet.diet	2
+m.07_hy	m.07_jd	
+location.statistical_region.gni_in_ppp_dollars..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+business.consumer_product.company..business.company_product_relationship.company	46
+m.059wk	m.04sv4	m.02h86l5	m.0h1jr	m.0k8z	m.01bvx1	m.01spxd	m.0nk4b	m.0d2tlb	m.01y9f8	m.07gv72	m.07gyp7	m.0537b	m.03pmfw	m.017tdm	m.01c6p1	m.0jcrh	m.06q07	m.05dv89	m.0cwldz	m.063nyd	m.0z90c	m.02ht8r	m.0lwkh	m.061t8w	m.022cdf	m.01b7dt	m.01zpmq	m.0dr90d	m.02x79zx	m.042dlw	m.069b85	m.02_39h	m.036rkh	m.01n073	m.04f0xq	m.03_c8p	m.03gng1	m.045c7b	m.0hpt3	m.01t53n	m.01nn79	m.01djsj	m.04k024	m.05b5c	m.033j5y	
+medicine.drug.drug_class	54
+m.03vf7	m.07z_g	m.09jxyf	m.025svp8	m.065pk	m.01j4k	m.0tbr	m.07__7	m.062b2k	m.02_vrv	m.01dyv8	m.0qm36	m.033gj_	m.0b6pmt	m.01lgk8	m.05jqy	m.0fx3s	m.0dw4z	m.01jjpv	m.05q2yq	m.036kty	m.0187rh	m.01694g	m.036r9t	m.01jtfb	m.02rnrl	m.02yx18	m.0fx47	m.06b0w	m.02y78_	m.019j6f	m.05ngw	m.0187ml	m.014yf3	m.02hn3	m.0z0q	m.02k260	m.0y09	m.07b0l	m.0m_j	m.0hk9b	m.04khrx_	m.025tkqy	m.025rx80	m.01jc2r	m.0f1pz	m.05h3j6	m.066tq	m.023yhm	m.017sv0	m.02xxvj	m.011wd	m.03b_8	m.022b1	
+chemistry.chemical_element.chemical_series	13
+m.09bb3	m.012h18	m.03gcp	m.07gvd	m.04t7l	m.01s71	m.0hvl	m.04n1n	m.0pwyh	m.059gn	m.0lpgh	m.0yf5	m.03bxzkh	
+user.robert.mobile_phones.mobile_phone.input_interface	12
+m.0c0_q	m.01pqb3	m.01q3m6	m.04w40y	m.027mby3	m.0l8xx	m.07n7m	m.0cs24	m.04zldy	m.0316ky	m.01w0lx	m.069hh	
+metropolitan_transit.transit_system.transit_service_types	13
+m.0f6pl	m.01x6c0	m.01bjv	m.0ddnl	m.0467y7	m.07m9q	m.01w0d	m.056qz	m.0195fx	m.0dft2	m.07kfm	m.0ddn4	m.0qjmq	
+event.disaster.type_of_disaster	21
+m.03t1vs	m.098pd	m.04ktp4	m.01n8xw	m.058ps_p	m.0dbtv	m.0jpqm	m.071rm	m.07nq4	m.0h3jg	m.016hp5	m.0djn5	m.09c5_	m.014zdl	m.02r0sq	m.02r97	m.02_41	m.0d8l3	m.014yhq	m.0ds6ccp	m.061s4	
+location.statistical_region.energy_use_per_capita..measurement_unit.dated_kgoe.source	1
+m.0ndnhbq	
+film.film.dubbing_performances..film.dubbing_performance.language	21
+m.02hwhyv	m.0c_v2	m.02h40lc	m.03hkp	m.03k50	m.06mp7	m.0349s	m.06b_j	m.02bv9	m.064_8sq	m.07zrf	m.0459q4	m.05qqm	m.06nm1	m.03_9r	m.0jzc	m.0653m	m.0295r	m.03115z	m.04306rv	m.0v0s	
+location.statistical_region.military_expenditure_percent_gdp..measurement_unit.dated_percentage.source	1
+m.0ndnhc6	
+film.actor.dubbing_performances..film.dubbing_performance.language	11
+m.02hwhyv	m.02h40lc	m.06b_j	m.064_8sq	m.0459q4	m.03k50	m.06nm1	m.03_9r	m.0653m	m.03115z	m.04306rv	
+user.jamie.food.food_additive.category	10
+m.066vh	m.08bx9_	m.08wjcd	m.0gvcb	m.01c45y	m.014_q	m.02w08	m.015zfk	m.01n8jy	m.08bqcf	
+film.film_character.portrayed_in_films_dubbed..film.dubbing_performance.language	11
+m.0c_v2	m.02h40lc	m.06mp7	m.06b_j	m.01gp_d	m.0459q4	m.06nm1	m.03_9r	m.0jzc	m.04306rv	m.0295r	
+base.schemastaging.tv_character_extra.regular_dubbing_performances..base.schemastaging.tv_star_dubbing_performance.language	9
+m.02hwhyv	m.02h40lc	m.05zjd	m.02bv9	m.064_8sq	m.02bjrlw	m.06nm1	m.07qv_	m.04306rv	
+user.alexander.philosophy.philosopher.era	6
+m.02_jdh	m.07kn3	m.01ds12	m.01sp4d	m.03dft3	m.07glt	
+book.short_story.genre	20
+m.03npn	m.0l67h	m.07s9rl0	m.0bxg3	m.05p553	m.0c3351	m.028v3	m.03082	m.039vk	m.0174gw	m.01hmnh	m.0707q	m.0hc1z	m.0lsxr	m.06nbt	m.08322	m.01jfsb	m.01qpc	m.06mq7	m.06n90	
+freebase.unit_profile.dimension	37
+m.0zl3	m.02nxz	m.02jk_d	m.07h3n	m.03bbc3	m.061ln	m.05wnx	m.0frqt4	m.02s7nb	m.0hg89	m.02yc2	m.02x93	m.011ks6	m.01vfy	m.04t9l	m.07zn0	m.02mm_	m.01s9x	m.0gp12	m.0nb0h	m.067yp	m.0n0j	m.01c2_0	m.01ccq1	m.04nfq	m.02btf	m.07gr_	m.073s_	m.02r7dt	m.038zyj	m.0gj_9	m.0mwc	m.07c_l	m.01thsn	m.04psy	m.015_85	m.02n5bg	
+user.tsturge.language.letter.alphabet	7
+m.01jsq3	m.04kgcs	m.03hj9	m.0358gm	m.01pyw	m.04n0p	m.0xn6	
+base.technologyofdoing.knowledge_worker_practice.applies_to..base.technologyofdoing.fieldconcern.concern	5
+m.026y05	m.01593g	m.03h1p2	m.01s560	m.0mc92	
+tv.tv_character.appeared_in_tv_program..tv.regular_tv_appearance.special_performance_type	2
+m.014kbl	m.01kyvx	
+user.alexbl.honorary_title.titled_person.honorary_title..user.alexbl.honorary_title.honorary_title_holding.honorary_title	5
+m.01gzdk	m.02z478	m.022kj8	m.0154yf	m.08gd_r	
+user.robert.roman_empire.roman_emperor.emperor_of	5
+m.01v34	m.017cw	m.02jbz2	m.06cmp	m.01g14w	
+book.periodical.subjects	43
+m.04spm	m.01mkq	m.01lj9	m.01mw1	m.07c1v	m.0mzj_	m.02vx4	m.04sh3	m.07vzd	m.05qjt	m.026fns	m.05jhg	m.0dc_v	m.03f5k	m.0c8wxp	m.0zd6	m.06ntj	m.0j0k	m.0d05w3	m.0ggx5q	m.02jjt	m.05kn8	m.04rlf	m.032tl	m.04rjg	m.03nfmq	m.069x_s	m.05qt0	m.01lp8	m.02vxn	m.02j62	m.0gw0	m.01rfz	m.0krcl	m.06n90	m.09s1f	m.089g6	m.04pjv	m.037hz	m.06mq7	m.0jxy	m.0fpzzp	m.0fzyg	
+tv.tv_actor.guest_roles..tv.tv_guest_role.special_performance_type	4
+m.014kbl	m.01kyvx	m.01pb34	m.014ktf	
+location.statistical_region.electricity_consumption_per_capita..measurement_unit.dated_kilowatt_hour.source	1
+m.0ndnhbm	
+film.film_character.portrayed_in_films..film.performance.special_performance_type	4
+m.014kbl	m.01kyvx	m.01pb34	m.023dwm	
+award.hall_of_fame_inductee.hall_of_fame_inductions..award.hall_of_fame_induction.category	5
+m.03k3r	m.025smyp	m.02h664g	m.02h664x	m.03b3nf	
+biology.organism.organism_type	25
+m.051bp5	m.0dcy8	m.015p6	m.0by6g	m.0kjxx	m.07kbbhf	m.03k3r	m.04mtd0	m.0cdbv9	m.01hqwt	m.0cb37	m.0d7z9	m.03bj1	m.01yrx	m.01_gx_	m.02b7cp	m.07bgp	m.0633h	m.04ylr2	m.0396p	m.0bt9lr	m.09kmb	m.02q2rdb	m.09b5t	m.01cw_n	
+food.ingredient.incompatible_with_dietary_restrictions	1
+m.07_hy	
+protected_sites.protected_site.governing_body	3
+m.02jqx2	m.015dvh	m.0j__m	
+base.crime.crime_victim.crime_type	14
+m.07pnk	m.03j85	m.0x2fg	m.016pjk	m.028xc1	m.01m4jw	m.0447qc	m.051_y	m.01fzl3	m.08f_58	m.06g5z	m.012hw	m.012ph9	m.0cttd	
+base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad..base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position	4
+m.0dgrmp	m.02_j1w	m.02nzb8	m.02sdk9v	
+aviation.airline.alliance	3
+m.01q1_c	m.01x4x4	m.01qynv	
+book.periodical.format..book.periodical_format_period.format	3
+m.0j4sj	m.07mbq	m.047jhc	
+user.narphorium.people.wealthy_person.net_worth..measurement_unit.dated_money_value.currency	2
+m.09nqf	m.01nv4h	
+user.tsegaran.language.phrase.original_language	2
+m.04h9h	m.064_8sq	
+chemistry.chemical_element.periodic_table_block	4
+m.0j7p9	m.0j7pr	m.0htq0	m.0htmp	
+government.political_appointer.appointees..government.government_position_held.basic_title	17
+m.060bp	m.072hn9	m.01zq91	m.060c4	m.0fj45	m.0p5vf	m.0fkvn	m.0cq0r_	m.0fkx3	m.0377k9	m.01xp_h	m.0hyf1	m.01t_55	m.01fch0	m.02rbq	m.0pqc5	m.0dq3c	
+spaceflight.astronaut.space_agency	5
+m.05f4p	m.01ykg4	m.0f7rpy	m.03595y	m.02t63	
+film.film.runtime..film.film_cut.type_of_film_cut	3
+m.0653ts	m.02f4z	m.029j_	
+protected_sites.listed_site.designation_as_natural_or_cultural_site..protected_sites.natural_or_cultural_site_listing.category_or_criteria	5
+m.01d_xw	m.0245zn	m.03nfmq	m.02ky346	m.08_3_d	
+music.group_member.vocal_range	8
+m.0j871	m.03bx68h	m.03bx0bm	m.0j862	m.0j210	m.09vt4p	m.0j7xf	m.018l5l	
+base.animal_synopses.animal_synopsis.gestation_period..base.qualified_values.qualified_value.unit	3
+m.053jb	m.083sl	m.02bbq	
+language.language_writing_system.type_of_writing	7
+m.03t38	m.0hwf	m.0khl	m.0kj0	m.06nk7	m.016j8k	m.0h7lh	
+computer.software.protocols_used	38
+m.03hgt	m.03tyl	m.0n5tx	m.03jkw	m.03zpj	m.027f4j	m.014yfw	m.06wsp	m.09bfvk	m.07hzk	m.077dn	m.012np5	m.01258	m.0179tq	m.03xhk	m.01bb8j	m.0kx02	m.018j_f	m.04t82	m.01jp81	m.0dzxs	m.02tfxz	m.0777q	m.0bdfgd	m.03c0y	m.072d4f	m.05tjnx	m.05rf8	m.05tdtl	m.04mxrf	m.03yn_	m.03t2s	m.0749d	m.02hznc	m.04plq	m.03yph	m.05cntt	m.0dj4h	
+architecture.museum.type_of_museum	11
+m.02h7f6	m.04rlf	m.027v0wz	m.0hhbr	m.02pwq	m.051xr7	m.0j58y	m.089v3	m.0169n_	m.012ww9	m.07k8hcw	
+base.animal_synopses.animal_synopsis.tail_length..base.qualified_values.qualified_value.unit	3
+m.04sf9	m.024_6	m.0jmrm	
+base.petbreeds.dog_breed.size..base.petbreeds.dog_size.gender	2
+m.05zppz	m.02zsn	
+base.technologyofdoing.knowledge_worker_practice.scopelevel	2
+m.0qb7t	m.03s26	
+film.film.film_collections	3
+m.035gpl	m.030qb3t	m.05glt	
+astronomy.near_earth_object.near_earth_object_classification	2
+m.0jvq	m.01srj	
+sports.sports_team.coaches..sports.sports_team_coach_tenure.position	3
+m.02y5kn	m.047vnfs	m.02md_2	
+user.robert.roman_empire.roman_emperor.title	3
+m.024c73	m.0nkk	m.01g14w	
+music.composition.language	29
+m.09q16b	m.0653m	m.05zjd	m.064_8sq	m.0361y8	m.01c7y	m.071fb	m.04h9h	m.02h40lc	m.06mp7	m.02_8gp	m.01gp_d	m.07zrf	m.06nm1	m.04306rv	m.0148c4	m.02bv9	m.05f_3	m.022lsz	m.03cqzc	m.02bjrlw	m.06b_j	m.0t_2	m.02ztjwg	m.014267	m.03x42	m.0459q4	m.03_9r	m.0jzc	
+medicine.infectious_disease.infectious_agent_type	6
+m.05r99	m.0b_l7	m.0g9pc	m.03qch2w	m.069mgv	m.03154	
+base.technologyofdoing.knowledge_worker_practice.ptype	9
+m.03ylbn	m.03lx7f	m.054tj	m.07b7r	m.020lg_	m.033ccn	m.037mh8	m.04_sb	m.01gd1c	
+base.greatfilms.ranked_item.appears_in_ranked_lists..base.greatfilms.ranking.list	1
+m.035gpl	
+computer.file_format.genre	31
+m.0l7y_	m.060b5	m.06279	m.07xhlx	m.0yhh	m.05vp70	m.076k0	m.0279m	m.01zhp	m.0nk18	m.0f73f	m.02bc6	m.0cnzh	m.06f60	m.06wxc	m.026rd1	m.01ftyb	m.0h58n	m.0725b	m.01ql51	m.04s5c	m.01xnlx	m.079mz	m.099f0	m.0d6jn	m.03q11r	m.04mh3	m.02425b	m.082vy	m.023k26	m.07znj	
+base.animal_synopses.animal_synopsis.body_length..base.qualified_values.qualified_value.unit	3
+m.04sf9	m.024_6	m.0jmrm	
+food.cheese.source_of_milk	4
+m.0g0zc	m.07bgp	m.03fwl	m.01xq0k1	
+travel.transport_terminus.travel_destinations_served..travel.transportation.mode_of_transportation	6
+m.06d_3	m.07jdr	m.01bjv	m.0ddnl	m.09ct_	m.01w0d	
+comic_books.comic_book_series.genre	24
+m.0751y	m.02vx4	m.0fdjb	m.02n4kr	m.0751f	m.09kqc	m.01qxvh	m.03npn	m.04xsv	m.01lr9l	m.06cvj	m.04spm	m.06nbt	m.0f9s9	m.02d_n6	m.0clz1b	m.06n90	m.07s9rl0	m.01hmnh	m.05p553	m.0fx2s	m.0gf28	m.0cvwrj	m.02kdv5l	
+sports.sport_country.athletic_performances..sports.competitor_competition_relationship.medal	3
+m.02lpp7	m.02lq5w	m.02lq67	
+film.film.gross_revenue..measurement_unit.dated_money_value.currency	3
+m.09nqf	m.088n7	m.09c7w0	
+fictional_universe.fictional_character.ethnicity	29
+m.019kn7	m.09vc4s	m.0hbyp	m.048z7l	m.033tf_	m.03ts0c	m.07hwkr	m.02p1qnk	m.01336l	m.0hby6	m.0222qb	m.01ffh7	m.012c1l	m.0d2by	m.0x67	m.06j2v	m.064wd	m.01qhm_	m.038723	m.02ctzb	m.06v41q	m.0jt85pd	m.0xff	m.0xnvg	m.025pgh	m.041rx	m.0hc07	m.0g6ff	m.02w7gg	
+baseball.baseball_player.lifetime_batting_statistics..baseball.lifetime_batting_statistics.starting_season	3
+m.0285r5d	m.04n36qk	m.03c6sl9	
+government.governmental_body.members..government.government_position_held.basic_title	22
+m.02w8_2	m.0fkvn	m.0377k9	m.01xp_h	m.01t_55	m.01fch0	m.01s1rf	m.072hn9	m.01gkgk	m.01zq91	m.01k4ps	m.0c3b0	m.0hyf1	m.060bp	m.060c4	m.09d6p2	m.0p5vf	m.02079p	m.0pqc5	m.0fkx3	m.026b7s	m.01m4k8	
+organization.organization.board_members..organization.organization_board_membership.role	16
+m.027qb1	m.022qqh	m.08fdc3	m.060c4	m.09d6p2	m.01jg6	m.0c44w0	m.0krdk	m.0fkvn	m.06hpx2	m.02211by	m.04t64n	m.05172y	m.0dq_5	m.01kr6k	m.0dq3c	
+biology.organism.sex	2
+m.05zppz	m.02zsn	
+transportation.road.highway_system	7
+m.03wf0h7	m.03ktdl	m.0b_r0	m.0b_ql	m.06gg0	m.0d2hl	m.08880l	
+base.schemastaging.context_name.plural..base.schemastaging.plural_form.language	1
+m.0mgw44	
+opera.opera.language	8
+m.02h40lc	m.01wgr	m.064_8sq	m.02ztjwg	m.02bjrlw	m.06b_j	m.0t_2	m.04306rv	
+astronomy.astronomical_discovery.discovery_technique	3
+m.06702b	m.01k93j	m.02qvd94	
+theater.play.genre	16
+m.07s9rl0	m.01hmnh	m.02822	m.04t36	m.011ys5	m.0fx2s	m.03g3w	m.0557q	m.01j1n2	m.01pxgq	m.073_6	m.0q9mp	m.06n90	m.01jfsb	m.01f2vp	m.06cvj	
+book.periodical.publisher..book.periodical_publisher_period.publisher	32
+m.0bk72	m.02mwrv	m.03qbm	m.03cljg	m.088f0s	m.05dp2	m.01_1nb	m.012pjw	m.01c71k	m.03v5l	m.03m6v8	m.027bv9	m.026db_	m.0ckt_	m.03jwfj	m.01k85s	m.02_nl4	m.074bb8	m.0126n	m.06w8sy	m.0fpjj	m.0458zs	m.028bvxw	m.02hvd	m.01_4ks	m.01nm9m	m.02q4ly8	m.06sk5w	m.0300cp	m.02hcxm	m.01gg1s	m.03pnvq	
+location.statistical_region.minimum_wage..measurement_unit.recurring_money_value.currency	3
+m.09nqf	m.04tkg7	m.02l6h	
+base.argumentmaps.morally_disputed_activity.instance_of_abstract_moral_dispute	7
+m.05gd9	m.0dfjqm	m.0fqxpj	m.01ckq4	m.020v2	m.07jq_	m.038bj	
+location.statistical_region.minimum_wage..measurement_unit.recurring_money_value.frequency	2
+m.053jb	m.03mxv	
+user.hangy.default_domain.sports_team_gender.gender	2
+m.05zppz	m.02zsn	
+chemistry.chemical_element.discovering_country	11
+m.02vzc	m.0f8l9c	m.07ssc	m.0345h	m.09c7w0	m.06bnz	m.0k6nt	m.06mkj	m.02jx1	m.0d0vqn	m.03rjj	
+base.dinosaur.dinosaur.area_s_of_occurrence	5
+m.0jgd	m.04w8f	m.059g4	m.0dg3n1	m.0j0k	
+people.appointee.position..people.appointment.appointed_role	14
+m.0ccrp	m.080v2	m.01f61d	m.0c031	m.012w3	m.02661g6	m.0ccqz	m.0bw8r	m.0ccq8	m.0ccqm	m.07y07	m.07szk	m.083pr	m.05w34q	
+sports.tournament_event_competitor.events_competed_in..sports.competitor_competition_relationship.medal	3
+m.02lpp7	m.02lq5w	m.02lq67	
+film.film.film_format	7
+m.02y_4s1	m.0fp0c4	m.01klnp	m.017d63	m.025t84t	m.0hcr	m.017fx5	
+architecture.architect.architectural_style	17
+m.08tjm1	m.07wy0j	m.03tzh9	m.0tyq	m.01t8vq	m.01yhg8	m.0bdgp	m.04p_0t	m.0dqj19	m.01yjfd	m.073_6	m.0dvh9	m.07xnmw	m.01tv5c	m.04f23j	m.02t7wc	m.0g6pl	
+government.governmental_jurisdiction.official_symbols..location.location_symbol_relationship.Kind_of_symbol	6
+m.0fcxk	m.0962ft	m.03120	m.09hqy	m.04rdrk	m.0j749	
+celebrities.celebrity.sexual_orientation..celebrities.sexual_orientation_phase.sexual_orientation	2
+m.0d63kt	m.03nh9	
+base.schemastaging.tv_actor_extra.regular_dubbing_performances..base.schemastaging.tv_star_dubbing_performance.language	3
+m.02hwhyv	m.03_9r	m.02h40lc	
+film.person_or_entity_appearing_in_film.films..film.personal_film_appearance.type_of_appearance	1
+m.01jdpf	
+biology.animal_breed.registered_with..biology.breed_registration.registry	1
+m.0ljl8	
+medicine.drug.route_of_administration	8
+m.08wx2k	m.03jy9d	m.03131m	m.02g5tq	m.02qzvn	m.03gq2gb	m.018c_8	m.04v6hz	
+base.schemastaging.person_extra.net_worth..measurement_unit.dated_money_value.source	3
+m.0d07ph	m.06sy26	m.01r2lw	
+base.schemastaging.nutrient_extra.food_concepts..base.schemastaging.nutrition_information.nutrient_amount_unit	2
+m.01x32j1	m.03js00	
+base.animal_synopses.animal_synopsis.speed..base.qualified_values.qualified_value.unit	3
+m.0hpsm	m.030skj	m.018x8t	
+base.fashionmodels.fashion_model.hair_color	2
+m.0294jb	m.06fvc	
+award.competition.type_of_competition	3
+m.015lz1	m.0nk95	m.09lmb	
+base.infrastructure.power_station.fuel_type	3
+m.03j5zb	m.01dfh8	m.021m_w	
+base.locations.states_and_provences.country	2
+m.03pn9	m.09c7w0	
+location.statistical_region.unemployment_rate..measurement_unit.dated_percentage.source	2
+m.0ndpx3c	m.01wfbm	
+base.animal_synopses.animal_synopsis.territory_extent..base.qualified_values.qualified_value.unit	5
+m.09ppg	m.0bshsw	m.0db_d	m.0jljd	m.0t8t	
+architecture.structure.construction_cost..measurement_unit.money_value.currency	10
+m.070f6j	m.02gsvk	m.0m39t	m.09nqf	m.0b03hb	m.0298sr	m.014z03	m.01nv4h	m.01pmlx	m.02l6h	
+boats.ship_class.ship_type	13
+m.019yc	m.02fj9	m.074d1	m.013swf	m.019xd	m.0xsc	m.012nd2	m.02py1	m.019lzv	m.0191hp	m.0391hg	m.0y0r	m.03c5wm	
+base.events.festival_series.type_of_festival	6
+m.0bxdf	m.0263qsk	m.027cqc	m.02xb2	m.0g6b5	m.0fy9k	
+tv.tv_producer.tv_episodes_produced..tv.tv_producer_episode_credit.role	2
+m.02nzlrk	m.0ckd1	
+digicams.digital_camera.supported_storage_types	4
+m.01730t	m.02zmtt	m.01tthm	m.01z76m	
+location.statistical_region.places_imported_from..location.imports_and_exports.currency	4
+m.01nv4h	m.09nqf	m.0ptk_	m.02l6h	
+soccer.football_player.matches_played..soccer.football_player_match_participation.match	1
+m.09v2l34	
+education.educational_institution.sexes_accepted..education.gender_enrollment.sex	2
+m.05zppz	m.02zsn	
+base.givennames.given_name.language	15
+m.05p2d	m.05zjd	m.03hkp	m.0ycv	m.0349s	m.017k6	m.064_8sq	m.027hfy	m.06nm1	m.06b_j	m.0jzc	m.01vdg1	m.070zw	m.04h9h	m.03k50	
+digicams.digital_camera.format	4
+m.0kzyh	m.04f20t	m.05p4z41	m.09kt17	
+food.diet_follower.follows_diet	1
+m.07_hy	
+base.anglican.diocese.church	1
+m.01spm	
+base.thoroughbredracing.thoroughbred_racehorse.color	4
+m.04pkcr	m.03pcnt	m.09ys23	m.0glddl	
+type.object.type	9
+m.03l_f62	m.03l_gb1	m.0fq37kp	m.015k4l	m.04d0bnl	m.02h7rjw	m.0k5j	m.06n75	m.06qnh	
+base.givennames.given_name.gender	2
+m.05zppz	m.02zsn	
+user.tsegaran.language.phrase.subject	1
+m.04gb7	
+sports.sports_official.sport	4
+m.018w8	m.018jz	m.02vx4	m.0jm_	
+base.billionaires.billionaire.net_worth..measurement_unit.dated_money_value.currency	1
+m.09nqf	
+tv.tv_personality.tv_regular_appearances..tv.tv_regular_personal_appearance.appearance_type	4
+m.09jwl	m.025m070	m.02xcqx	m.02k13d	
+celebrities.celebrity.net_worth..measurement_unit.dated_money_value.currency	2
+m.09nqf	m.01nv4h	
+visual_art.art_owner.artworks_owned..visual_art.artwork_owner_relationship.method_of_acquisition	3
+m.0gzkrp	m.0d84n	m.03zd4	
+base.folklore.mythical_person.mythology	1
+m.05h2k	
+base.animal_synopses.animal_synopsis.wingspan..base.qualified_values.qualified_value.unit	3
+m.04sf9	m.024_6	m.0jmrm	
+american_football.football_player.rushing..american_football.player_rushing_statistics.season	2
+m.04y6_qr	m.03gqdq7	
+engineering.engine.category	3
+m.0q03_	m.01mx49	m.018vbw	
+food.tea.tea_type	6
+m.05pdq	m.01mzvs	m.058vrl	m.026vr7	m.026071	m.02859d	
+digicams.digital_camera.uncompressed_formats	2
+m.012h7d	m.08g1q1	
+location.statistical_region.government_debt_percent_gdp..measurement_unit.dated_percentage.source	1
+m.0ndpxg8	
+chemistry.chemical_compound.solubility..chemistry.solubility_relationship.solubility	1
+m.032fvb	
+law.litigant.party_to_cases..law.legal_case_party_relationship.role	2
+m.065gc	m.02g60	
+base.x2010fifaworldcupsouthafrica.world_cup_participation.world_cup..base.x2010fifaworldcupsouthafrica.world_cup_team.world_cup	1
+m.016h2b	
+sports.multi_event_tournament.athletic_performances..sports.competitor_competition_relationship.medal	3
+m.02lpp7	m.02lq5w	m.02lq67	

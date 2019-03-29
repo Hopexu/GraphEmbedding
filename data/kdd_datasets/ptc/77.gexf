@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="relabel" type="string" />
+      <attribute id="1" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>03/12/2017</lastmodified>
+    </meta>
+    <nodes>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+109', 3: '3+2490'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+109', 3: '3+2490'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+81', 3: '3+2079'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="21" label="21">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+81', 3: '3+2079'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+81', 3: '3+2079'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+81', 3: '3+2079'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+4', 1: '1+48', 2: '2+978', 3: '3+2491'}" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="0" label="0">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+8', 1: '1+153', 2: '2+979', 3: '3+2492'}" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+1', 1: '1+10', 2: '2+318', 3: '3+2493'}" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+4', 1: '1+50', 2: '2+980', 3: '3+2494'}" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+1', 1: '1+10', 2: '2+318', 3: '3+2493'}" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+4', 1: '1+50', 2: '2+980', 3: '3+2494'}" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+1', 1: '1+34', 2: '2+981', 3: '3+2495'}" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+5', 1: '1+71', 2: '2+982', 3: '3+2496'}" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+4', 1: '1+9', 2: '2+282', 3: '3+2497'}" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+1', 1: '1+31', 2: '2+861', 3: '3+2498'}" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="11" label="11">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+1', 1: '1+34', 2: '2+981', 3: '3+2495'}" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="10" label="10">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+1', 1: '1+31', 2: '2+861', 3: '3+2498'}" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="13" label="13">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+12', 3: '3+628'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="12" label="12">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+12', 3: '3+628'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+12', 3: '3+628'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="14" label="14">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+12', 3: '3+628'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+12', 3: '3+628'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+12', 3: '3+628'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="19" label="19">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+109', 3: '3+2490'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+3', 1: '1+3', 2: '2+109', 3: '3+2490'}" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="24" source="24" target="11" />
+      <edge id="25" source="25" target="11" />
+      <edge id="18" source="20" target="8" />
+      <edge id="19" source="21" target="8" />
+      <edge id="22" source="22" target="10" />
+      <edge id="23" source="23" target="10" />
+      <edge id="0" source="1" target="0" />
+      <edge id="1" source="0" target="2" />
+      <edge id="2" source="0" target="4" />
+      <edge id="3" source="0" target="6" />
+      <edge id="5" source="3" target="12" />
+      <edge id="6" source="3" target="13" />
+      <edge id="4" source="3" target="2" />
+      <edge id="7" source="3" target="14" />
+      <edge id="11" source="5" target="15" />
+      <edge id="8" source="5" target="4" />
+      <edge id="10" source="5" target="17" />
+      <edge id="9" source="5" target="16" />
+      <edge id="16" source="7" target="19" />
+      <edge id="14" source="7" target="8" />
+      <edge id="15" source="7" target="18" />
+      <edge id="13" source="7" target="6" />
+      <edge id="12" source="6" target="11" />
+      <edge id="17" source="9" target="8" />
+      <edge id="20" source="9" target="10" />
+      <edge id="21" source="11" target="10" />
+    </edges>
+  </graph>
+</gexf>

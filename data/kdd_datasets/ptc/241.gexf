@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="relabel" type="string" />
+      <attribute id="1" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>03/12/2017</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+1', 1: '1+117', 2: '2+657', 3: '3+1460'}" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="0" label="0">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+5', 1: '1+118', 2: '2+658', 3: '3+1461'}" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+16', 1: '1+119', 2: '2+659', 3: '3+1462'}" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="0" value="{0: '0+5', 1: '1+120', 2: '2+660', 3: '3+1463'}" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="0" />
+      <edge id="1" source="1" target="2" />
+      <edge id="2" source="3" target="2" />
+    </edges>
+  </graph>
+</gexf>
