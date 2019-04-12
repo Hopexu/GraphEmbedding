@@ -5,11 +5,12 @@ import multiprocessing
 import pickle
 import numpy as np
 import tensorflow as tf
-import config
-import generator
-import discriminator
-from src import utils
-from src.evaluation import link_prediction as lp
+#Algorithm.Gr
+from  Algorithm.GraphGAN.src.GraphGAN import config
+from  Algorithm.GraphGAN.src.GraphGAN import generator
+from Algorithm.GraphGAN.src.GraphGAN import discriminator
+from Algorithm.GraphGAN.src import utils
+from Algorithm.GraphGAN.src.evaluation import link_prediction as lp
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 

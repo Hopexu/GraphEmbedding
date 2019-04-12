@@ -4,7 +4,7 @@ The class is used to evaluate the application of link prediction
 
 import numpy as np
 from sklearn.metrics import accuracy_score
-from src import utils
+from Algorithm.GraphGAN.src import utils
 
 
 class LinkPredictEval(object):

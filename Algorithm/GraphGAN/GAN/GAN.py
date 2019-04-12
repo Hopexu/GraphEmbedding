@@ -1,5 +1,5 @@
 #-*- encoding:UTF-8 -*-
-
+from  Algorithm.GraphGAN.GAN.layers import *
 class GAN(object):
 	def __init__(self,args):
 		self.epoch = args.epoch
@@ -13,4 +13,4 @@ class GAN(object):
 		self.model_name = args.gan_type
 		self.G = generator(self.dataset)	
 		self.D = discriminator(self.dataset)
-		self.G_optimizer = optim.Adam(self.G.parameters(),lr = args.lrG,betas = (args.beta1,args.
+		self.G_optimizer = optim.Adam(self.G.parameters(),lr = args.lrG,betas = (args.beta1,args.beta2))

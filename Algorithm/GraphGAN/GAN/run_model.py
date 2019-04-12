@@ -1,5 +1,6 @@
 #-*- encoding:-8 -*-
-
+import argparse
+from Algorithm.GraphGAN.GAN.GAN import GAN
 
 def parse_args():
 	desc = 'pytorch implementation of GAN collections'
@@ -10,7 +11,7 @@ def parse_args():
 	parser.add_argument('--dataset',type = str,default = 'mnist',
 				choices = ['mnist','fashion-mnist'],
 				help = 'The name of dataset')
-	parser.add_argument('--epoch',type = int,default = 25,help 'The number of epochs to run')
+	parser.add_argument('--epoch',type = int,default = 25,help = 'The number of epochs to run')
 	parser.add_argument('--batch_size',type = int,default = 64,help = 'The size of batch')
 	parser.add_argument('--save_dir',type = str,default = 'models',help = 'Directory name to save the model')
 	parser.add_argument('-result_dir',type = str,default = 'results',help = 'Directory name to save the generated images')
@@ -20,9 +21,9 @@ def parse_args():
 	parser.add_argument('--beta1',type = float,default = 0.5)	
 	parser.add_argument('--beta2',type = float,default = 0.99)
 	parser.add_argument('--gpu_model',type = bool,default = True)
-	return check_args(parser)
+	return #check_args(parser)
 def main():
-	args = parse_arg()
+	args = parse_args()
 	if args is None:
 		exit()
 	if args.gan_type == 'GAN':

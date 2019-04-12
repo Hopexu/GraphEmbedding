@@ -1,7 +1,5 @@
 #-*- encoding:UTF-8 -*-
-
-
-
+from Algorithm.GraphGAN.GAN.utils import *
 	
 class generator(nn.Module):
 	def __init__(self,dataset = 'mnist'):
@@ -19,7 +17,7 @@ class generator(nn.Module):
 		self.fc = nn.Sequential(
 				nn.Linear(self.input_dim,1024),
 				nn.BatchNorm1d(1024),
-				nn.ReLU()
+				nn.ReLU(),
 				nn.Linear(1024,128*(self.input_height //4)*(self.input_width //4)),
 				nn.BatchNorm1d(128 * (self.input_height //4) * (self.input_width //4)),
 				nn.ReLU(),
@@ -31,8 +29,9 @@ class generator(nn.Module):
 				nn.ConvTranspose2d(64,self.output_dim,4,2,1),
 				nn.Sigmoid(),
 				)
-		utils.initializ_weithts(self)
+		initialize_weights(self)
 	def forward(self,input):
+		pass
 				
 class discriminator(nn.Module):
 	def __init__(self,dataset = 'mnist'):
