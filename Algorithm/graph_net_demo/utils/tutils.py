@@ -25,7 +25,29 @@ def name2id(filepath):
 
 def readtriple(trainfile,testfile):
     entity_set = set()
-    realtion_set = set()
+    relation_set = set()
+    for fs in [trainfile,testfile]:
+        with open(fs) as f:
+            for line in f:
+                h_t_rs = line.strip().split('\t')
+                if len(h_t_rs) == 3:
+                    entity_set.add(h_t_rs[0])
+                    entity_set.add(h_t_rs[1])
+                    relation_set.add(h_t_rs[2])
+    entityDict = {}
+    relationDict = {}
+    traintriples = {}
+    testtriples = {}
+    for index,key in enumerate(entity_set):
+        entityDict[key] = int(index)
+    for index,key in enumerate(relation_set):
+        relationDict[key] = int(index)
+    with open(trainfile) as f:
+        for line in f:
+            h_t_r = line.strip().split('\t')
+            if len(h_t_r) == 3:
+                h,t,r = h_t_r
+
 
     return h_t_rdict
 if __name__ == '__main__':
