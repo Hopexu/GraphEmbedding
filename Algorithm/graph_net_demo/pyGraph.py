@@ -4,7 +4,7 @@ import torch
 from torch.nn import Sequential as Seq,Linear,ReLU
 from torch_scatter import scatter_mean
 from torch_geometric.nn import MetaLayer
-
+from torch.utils.data import Dataset
 
 class Net(torch.nn.Mdoule):
     def __init__(self):
@@ -31,4 +31,20 @@ class Net(torch.nn.Mdoule):
         self.op = MetaLayer(edge_model,node_model,global_model)
 
     def forward(self,x,edge_index,edge_attr,u,batch):
+        # return x, edge_attr, u
         return self.op(x,edge_index,edge_attr,u,batch)
+
+class MyDataset(Dataset):
+    def __init__(self,txt,transform):
+        self.txt = txt
+        self.transform = transform
+    def __len__(self):
+        fh = open(self.txt)
+        num = len(fh.readlines())
+        fh.close()
+        return num
+    def __getitem__(self,item):
+        pass
+
+train_data = MyDataset(txt = '',tranform =)
+
