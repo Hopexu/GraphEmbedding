@@ -33,6 +33,9 @@ class Net(torch.nn.Mdoule):
     def forward(self,x,edge_index,edge_attr,u,batch):
         # return x, edge_attr, u
         return self.op(x,edge_index,edge_attr,u,batch)
+class Criterion(nn.Module):
+    def __init__(self,):
+        super(Criterion,self).__init__()
 
 class MyDataset(Dataset):
     def __init__(self,txt,transform):
@@ -46,5 +49,10 @@ class MyDataset(Dataset):
     def __getitem__(self,item):
         pass
 
-train_data = MyDataset(txt = '',tranform =)
+#train_data = MyDataset(txt = '',tranform =)
+#train_load = DataLoader(dataset = train_data,shuffle = true, num_work = 2,batch_size = 128)
+
+net = Net().cuda()
+
+
 
