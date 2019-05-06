@@ -22,7 +22,7 @@ flags.DEFINE_float('learning_rate', 0.005, 'Initial learning rate.')
 flags.DEFINE_integer('epochs', 200, 'Number of epochs to train.')
 flags.DEFINE_integer('hidden1', 64, 'Number of units in hidden layer 1.')
 # future use 2 layer
-flags.DEFINE_integer('hidden2', 0, 'Number of units in hidden layer 2.')
+flags.DEFINE_integer('hidden2', 128, 'Number of units in hidden layer 2.')
 flags.DEFINE_float('dropout', 0.85, 'Dropout rate (1 - keep probability).')
 flags.DEFINE_float('weight_decay', 2.1544346900318823e-05, 'Weight for L2 loss on embedding matrix.')
 flags.DEFINE_integer('early_stopping', 50, 'Tolerance for early stopping (# of epochs).')

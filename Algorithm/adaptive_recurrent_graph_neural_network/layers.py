@@ -193,7 +193,9 @@ class GraphConvolution(Layer):
 
 
 class AdaptiveGraphConvolution(Layer):
-    """Graph convolution layer."""
+    """Graph convolution layer.
+
+    """
     def __init__(self, input_dim, output_dim, placeholders, dropout=0.,
                  sparse_inputs=False, act=tf.nn.relu, bias=False,
                  featureless=False, **kwargs):
@@ -219,6 +221,7 @@ class AdaptiveGraphConvolution(Layer):
             variable_summaries(self.vars['graph_mixing_weight'])
             for i in range(len(self.graphs)):
                 # glorot initializes the weights
+                # node i - j 的 权重
                 for k in range(len(self.graphs[i])):
                     self.vars['weights_' + str(i)+'_'+str(k)] = glorot([input_dim, output_dim],
                                                         name='weights_' + str(i)+'_'+str(k))
@@ -262,10 +265,11 @@ class AdaptiveGraphConvolution(Layer):
                         lin_combinations.append(graph_prod)
                 # combines different hops
                 with tf.name_scope("hops_mix"):
+                    # 对应列表之间的相加
                     graph_output=tf.add_n(lin_combinations)
                     graph_outputs.append(graph_output)
         with tf.name_scope("combine_graph_outputs"):
-            # implement mixing of the different graphs
+            # implement mixing of the diff/graph_mixing_weighterent graphs
             output =tf.squeeze(tf.tensordot(self.vars['graph_mixing_weight'],graph_outputs,[[0],[0]]))
 
         # bias
@@ -396,7 +400,10 @@ class AdaptiveGraphRecursiveConvolution(Layer):
         return self.act(output)
 
 def variable_summaries(var):
-  """Attach a lot of summaries to a Tensor (for TensorBoard visualization)."""
+  """Attach a lot of summaries to a Tensor (for TensorBoard visualization).
+  show
+  """
+
   with tf.name_scope('summaries'):
     mean = tf.reduce_mean(var)
     tf.summary.scalar('mean', mean)

@@ -13,8 +13,8 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable
 
-from utils import load_data, accuracy
-from models import GAT, SpGAT
+from .utils import load_data, accuracy
+from .models import GAT, SpGAT
 
 # Training settings
 parser = argparse.ArgumentParser()

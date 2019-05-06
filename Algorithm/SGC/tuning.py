@@ -4,12 +4,12 @@ import numpy as np
 import pickle as pkl
 import os
 from math import log
-from citation import train_regression
-from models import get_model
-from utils import sgc_precompute, load_citation, set_seed
-from args import get_citation_args
+from .citation import train_regression
+from .models import get_model
+from .utils import sgc_precompute, load_citation, set_seed
+from .args import get_citation_args
 import torch
-from hyperopt import fmin, tpe, hp, STATUS_OK, Trials
+from .hyperopt import fmin, tpe, hp, STATUS_OK, Trials
 
 # Arguments
 args = get_citation_args()

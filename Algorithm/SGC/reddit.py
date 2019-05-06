@@ -4,9 +4,9 @@ import numpy as np
 import torch
 import torch.nn.functional as F
 import torch.optim as optim
-from utils import load_reddit_data, sgc_precompute, set_seed
-from metrics import f1
-from models import SGC
+from .utils import load_reddit_data, sgc_precompute, set_seed
+from .metrics import f1
+from .models import SGC
 
 # Args
 parser = argparse.ArgumentParser()
