@@ -1,0 +1,21 @@
+{
+    'batch_size':512,
+    'epoches':20000,
+    'sg_lr':1e-4,
+    'ae_lr':1e-4,
+    'num_sample':10,
+    'alpha ':1,
+    'reg' :10,
+    'struct':[3703,1000,500,3703],
+    'inputEdgeFile':'graph/citeseer.edgelist',
+    'inputFeatureFile': 'graph/citeseer.feature',
+    'inputLabelFile':'graph/citeseer.label',
+    'outputEmbedFile': 'embed/citeseer.embed',
+    'dimensions': '128',
+    'feaDims': 3703,
+    'walk_length': 80,
+    'num_walks'：10,
+    'window_size': 10,
+    'p': 1.0,
+    'q': 1.0
+}

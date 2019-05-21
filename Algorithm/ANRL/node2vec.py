@@ -4,14 +4,11 @@ import numpy as np
 import networkx as nx
 import random
 
-
-class Graph():
-    def __init__(self, nx_G, is_directed, p, q):
+class Graph_node2vec():
+    def __init__(self, nx_G, p, q):
         self.G = nx_G
-        self.is_directed = is_directed
         self.p = p
         self.q = q
-
     def node2vec_walk(self, walk_length, start_node):
         G = self.G
         alias_nodes = self.alias_nodes
@@ -79,8 +76,6 @@ class Graph():
         Preprocessing of transition probabilities for guiding the random walks.
         '''
         G = self.G
-        is_directed = self.is_directed
-
         alias_nodes = {}
         for node in G.nodes():
             unnormalized_probs = [G[node][nbr]['weight']
@@ -91,15 +86,8 @@ class Graph():
             alias_nodes[node] = alias_setup(normalized_probs)
 
         alias_edges = {}
-        if is_directed:
-            for edge in G.edges():
-                alias_edges[edge] = self.get_alias_edge(edge[0], edge[1])
-        else:
-            for edge in G.edges():
-                alias_edges[edge] = self.get_alias_edge(edge[0], edge[1])
-                alias_edges[(edge[1], edge[0])] = self.get_alias_edge(
-                    edge[1], edge[0])
-
+        for edge in G.edges():
+            alias_edges[edge] = self.get_alias_edge(edge[0], edge[1])
         self.alias_nodes = alias_nodes
         self.alias_edges = alias_edges
 

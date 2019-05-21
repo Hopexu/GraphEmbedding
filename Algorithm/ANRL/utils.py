@@ -1,22 +1,27 @@
-from __future__ import print_function
 import networkx as nx
 import numpy as np
 import collections
+import json
+import time
+import numpy as np
+import pandas as pd
+import torch as t
+import torch.nn as nn
+import torch.nn.functional as F
+from torch.autograd import Variable
+from torch.nn import Linear,Sequential,ReLU,ModuleList,Parameter
+
+def read_param(fname):
+    with open(fname) as f:
+        data = json.load(f)
+        return [data]
 
 
-def read_graph(FLAGS, edgeFile):
+def read_graph(edgeFile):
     print('loading graph...')
-
-    if FLAGS.weighted:
-        G = nx.read_edgelist(edgeFile, nodetype=int, data=(('weight', float),), create_using=nx.DiGraph())
-    else:
-        G = nx.read_edgelist(edgeFile, nodetype=int, create_using=nx.DiGraph())
-        for edge in G.edges():
-            G[edge[0]][edge[1]]['weight'] = 1
-
-    if not FLAGS.directed:
-        G = G.to_undirected()
-
+    G = nx.read_edgelist(edgeFile, nodetype=int, create_using=nx.DiGraph())
+    for edge in G.edges():
+        G[edge[0]][edge[1]]['weight'] = 1
     return G
 
 

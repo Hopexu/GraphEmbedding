@@ -1,36 +1,5 @@
-from __future__ import print_function
-import numpy as np
-import networkx as nx
+from .pytorch_module import *
 from .node2vec import *
-import random
-from .evaluation import *
-from .model import *
-from .utils import *
-import tensorflow as tf
-import math
-import time
-import os
-
-tf.app.flags.DEFINE_string('datasets', 'citeseer', 'datasets descriptions')
-tf.app.flags.DEFINE_string('inputEdgeFile', 'graph/citeseer.edgelist', 'input graph edge file')
-tf.app.flags.DEFINE_string('inputFeatureFile', 'graph/citeseer.feature', 'input graph feature file')
-tf.app.flags.DEFINE_string('inputLabelFile', 'graph/citeseer.label', 'input graph label file')
-tf.app.flags.DEFINE_string('outputEmbedFile', 'embed/citeseer.embed', 'output embedding result')
-tf.app.flags.DEFINE_integer('dimensions', 128, 'embedding dimensions')
-tf.app.flags.DEFINE_integer('feaDims', 3703, 'feature dimensions')
-tf.app.flags.DEFINE_integer('walk_length', 80, 'walk length')
-tf.app.flags.DEFINE_integer('num_walks', 10, 'number of walks')
-tf.app.flags.DEFINE_integer('window_size', 10, 'window size')
-tf.app.flags.DEFINE_float('p', 1.0, 'p value')
-tf.app.flags.DEFINE_float('q', 1.0, 'q value')
-tf.app.flags.DEFINE_boolean('weighted', False, 'weighted edges')
-tf.app.flags.DEFINE_boolean('directed', False, 'undirected edges')
-
-os.environ['CUDA_VISIBLE_DEVICES'] = '0'
-config_tf = tf.ConfigProto()
-config_tf.gpu_options.allow_growth = True
-
-
 def generate_graph_context_all_pairs(path, window_size):
     # generating graph context pairs
     all_pairs = []
@@ -107,20 +76,20 @@ def construct_traget_neighbors(nx_G, X, FLAGS, mode='WAN'):
 
 
 def main():
-    FLAGS = tf.app.flags.FLAGS
-    inputEdgeFile = FLAGS.inputEdgeFile
-    inputFeatureFile = FLAGS.inputFeatureFile
-    inputLabelFile = FLAGS.inputLabelFile
-    outputEmbedFile = FLAGS.outputEmbedFile
-    window_size = FLAGS.window_size
+    config = read_param('./config.py')
+    inputEdgeFile = config['inputEdgeFile']
+    inputFeatureFile = config['inputFeatureFile']
+    inputLabelFile = config['inputLabelFile']
+    outputEmbedFile = config['outputEmbedFile']
+    window_size = ['widow_size']
 
     # Read graph
-    nx_G = read_graph(FLAGS, inputEdgeFile)
+    nx_G = read_graph(inputEdgeFile)
 
     # Perform random walks to generate graph context
-    G = node2vec.Graph(nx_G, FLAGS.directed, FLAGS.p, FLAGS.q)
+    G = Graph_node2vec(nx_G,config['p'], config['q'])
     G.preprocess_transition_probs()
-    walks = G.simulate_walks(FLAGS.num_walks, FLAGS.walk_length)
+    walks = G.simulate_walks(config['num_walks'], config['walk_length'])
 
     # Read features
     print('reading features...')
